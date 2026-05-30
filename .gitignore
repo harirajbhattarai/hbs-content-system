@@ -1,0 +1,10 @@
+.obsidian/
+.DS_Store
+*.env
+*.json
+*.key
+*.pem
+*gsc-token*
+*gsc-oauth*
+*secret*
+*credential*
