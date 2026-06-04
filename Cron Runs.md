@@ -47,3 +47,25 @@ Each entry represents one cron run of the Every-3-Day Blog Draft Creator.
 - **Reminder:** Run the terminal workflow manually to check and publish this draft to Shopify
 
 ---
+## Cron Run — Monday, June 1st, 2026 - 12:26 PM (Europe/London)
+
+- **Job:** 10
+- **Topic:** Hoverkart Setup Guide for Beginners
+- **Target File:** clients/hoverboard_store/content_engine/drafts/hoverkart-setup-guide-beginners.html
+- **Result:** created
+- **Reason:** file created successfully
+- **Shopify API called:** No
+- **Reminder:** Run the terminal workflow manually to check and publish this draft to Shopify
+
+---
+## Cron Run — Thursday, June 4th, 2026 - 12:26 PM (Europe/London)
+
+- **Job:** 11
+- **Topic:** Hoverboard Beeping: Common Reasons and Safe Fixes
+- **Target File:** clients/hoverboard_store/content_engine/drafts/hoverboard-beeping-common-reasons-safe-fixes.html
+- **Result:** created
+- **Reason:** file created successfully
+- **Shopify API called:** No
+- **Reminder:** Run the terminal workflow manually to check and publish this draft to Shopify
+
+---

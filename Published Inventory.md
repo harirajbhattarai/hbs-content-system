@@ -1,11 +1,12 @@
 # Hoverboard Store — Shopify Blog Content Inventory
 
-Generated: 2026-05-30T08:23:28.609177Z
+Generated: 2026-06-04T12:20:03.625554Z
 
 | Status | Blog | Title | Slug | Words | H1 | Updated |
 |---|---|---|---|---:|---|---|
-| published | Journal Insights | Hoverboard Laws UK 2026: Where You Can and Cannot Ride | hoverboard-laws-uk-2026-where-you-can-and-cannot-ride | 1631 | Hoverboard Laws UK 2026: Where You Can and Cannot Ride | 2026-05-16T22:59:32+01:00 |
-| published | Journal Insights | How to Charge Hoverboard Safely UK 2026 - Complete Guide | how-to-charge-hoverboard-safely-uk-2026-complete-guide | 1525 |  | 2026-04-20T13:54:40+01:00 |
+| published | Journal Insights | How to Clean a Hoverboard Safely / Hoverboard Store | how-to-clean-a-hoverboard-safely-hoverboard-store | 1331 | How to Clean a Hoverboard Safely | 2026-05-30T09:40:34+01:00 |
+| published | Journal Insights | Hoverboard Laws UK 2026: Where You Can and Cannot Ride | hoverboard-laws-uk-2026-where-you-can-and-cannot-ride | 1631 | Hoverboard Laws UK 2026: Where You Can and Cannot Ride | 2026-05-30T13:16:32+01:00 |
+| published | Journal Insights | How to Charge Hoverboard Safely UK 2026 - Complete Guide | how-to-charge-hoverboard-safely-uk-2026-complete-guide | 1525 |  | 2026-05-30T10:03:36+01:00 |
 | published | Journal Insights | Hoverboard vs Electric Scooter UK 2026 – Complete Comparison Guide | hoverboard-vs-electric-scooter-uk-2026-complete-comparison-guide-1 | 2498 | Hoverboard vs Electric Scooter UK 2026 – Complete Comparison Guide | 2026-03-25T00:23:58+00:00 |
 | published | Journal Insights | Hoverkart Safety Guide UK 2026 — Everything You Need to Ride Safely | hoverkart-safety-guide-uk-2026 | 2803 | Hoverkart Safety Guide UK 2026 — Everything You Need to Ride Safely | 2026-03-24T23:22:38+00:00 |
 | published | Journal Insights | Hoverkart Compatibility Guide UK 2026 - Complete Guide | hoverkart-compatibility-guide-uk-2026-complete-guide | 2653 | Hoverkart Compatibility Guide UK 2026 - Complete Guide | 2026-03-24T23:22:57+00:00 |

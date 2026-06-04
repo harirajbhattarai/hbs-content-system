@@ -151,7 +151,7 @@ Notes:
 Date target: 2026-06-15
 Cluster: Hoverkart
 Decision: create_new
-Status: planned
+Status: draft_created
 Topic: Hoverkart Setup Guide for Beginners
 Target keyword: hoverkart setup guide
 File: clients/hoverboard_store/content_engine/drafts/hoverkart-setup-guide-beginners.html
@@ -174,7 +174,7 @@ If a planned job already exists in published_inventory.md or draft_inventory.md:
 Date target: 2026-06-18
 Cluster: Troubleshooting
 Decision: create_new
-Status: planned
+Status: draft_created
 Topic: Hoverboard Beeping: Common Reasons and Safe Fixes
 Target keyword: hoverboard beeping
 File: clients/hoverboard_store/content_engine/drafts/hoverboard-beeping-common-reasons-safe-fixes.html

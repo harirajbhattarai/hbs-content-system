@@ -1,10 +1,11 @@
 # Hoverboard Store — Shopify Blog Content Inventory
 
-Generated: 2026-05-30T08:23:28.609756Z
+Generated: 2026-06-04T12:20:03.625866Z
 
 | Status | Blog | Title | Slug | Words | H1 | Updated |
 |---|---|---|---|---:|---|---|
-| draft | Journal Insights | How to Clean a Hoverboard Safely / Hoverboard Store | how-to-clean-a-hoverboard-safely-hoverboard-store | 1331 | How to Clean a Hoverboard Safely | 2026-05-30T09:23:28+01:00 |
+| draft | Journal Insights | Hoverboard Beeping: Common Reasons and Safe Fixes | hoverboard-beeping-common-reasons-and-safe-fixes | 1374 | Hoverboard Beeping: Common Reasons and Safe Fixes | 2026-06-04T13:20:02+01:00 |
+| draft | Journal Insights | Hoverkart Setup Guide for Beginners UK 2026 | hoverkart-setup-guide-for-beginners-uk-2026 | 1317 | Hoverkart Setup Guide for Beginners: Complete UK Guide 2026 | 2026-06-03T16:16:57+01:00 |
 | draft | Journal Insights | Birthday Gift Ideas for Kids Who Like Ride-On Toys / Hoverboard Store | birthday-gift-ideas-for-kids-who-like-ride-on-toys-hoverboard-store | 1111 | Birthday Gift Ideas for Kids Who Like Ride-On Toys | 2026-05-26T20:00:59+01:00 |
 | draft | Journal Insights | Beginner Hoverboards: What First-Time Buyers Should Check / Hoverboard Store | beginner-hoverboards-what-first-time-buyers-should-check-hoverboard-store | 1398 | Beginner Hoverboards: What First-Time Buyers Should Check | 2026-05-25T15:09:28+01:00 |
 | draft | Journal Insights | Hoverboard Not Charging: Common Causes and Safe Checks | hoverboard-not-charging-common-causes-and-safe-checks | 1248 | Hoverboard Not Charging: Common Causes and Safe Checks | 2026-05-17T16:37:20+01:00 |
