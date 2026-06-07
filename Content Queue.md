@@ -187,7 +187,7 @@ Notes:
 Date target: 2026-06-21
 Cluster: Buyer Guide
 Decision: create_new
-Status: planned
+Status: draft_created
 Topic: Best Hoverboards for Beginners UK: What to Look For
 Target keyword: best hoverboard for beginners uk
 File: clients/hoverboard_store/content_engine/drafts/best-hoverboards-for-beginners-uk.html

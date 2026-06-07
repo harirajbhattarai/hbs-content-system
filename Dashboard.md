@@ -1,6 +1,6 @@
 # Hoverboard Store Content System
 
-Last exported: 2026-06-04 13:20:03
+Last exported: 2026-06-07 13:20:03
 
 ## Quick Links
 
@@ -19,14 +19,13 @@ Last exported: 2026-06-04 13:20:03
 
 ## Queue Status Summary
 
-- **draft_created**: 9
+- **draft_created**: 10
 - **needs_human_review**: 1
-- **planned**: 19
+- **planned**: 18
 - **published_live**: 1
 
 ## Next Planned Jobs
 
-- **Job 12** — 2026-06-21 — Buyer Guide — Best Hoverboards for Beginners UK: What to Look For
 - **Job 13** — 2026-06-24 — Safety / Support — Hoverboard Helmet and Safety Gear Guide for Kids
 - **Job 14** — 2026-06-27 — Hoverkart — Hoverkart vs Hoverboard: Which Is Better for Kids?
 - **Job 15** — 2026-06-30 — Maintenance — How to Store a Hoverboard Battery Safely
@@ -34,22 +33,21 @@ Last exported: 2026-06-04 13:20:03
 - **Job 17** — 2026-07-06 — Troubleshooting — Hoverboard Won’t Turn On: Safe Checks Before You Replace It
 - **Job 18** — 2026-07-09 — Buyer Guide — Hoverboard Weight Limit Guide for Parents
 - **Job 19** — 2026-07-12 — Seasonal / Gift Content — Christmas Hoverboard Gift Guide for Kids UK
+- **Job 20** — 2026-07-15 — Accessories / Support — Best Hoverboard Accessories for Safer Riding
 
 ## Latest Cron Snapshot
 
 ```text
 # Latest Cron Run Status
 
-- **Last run:** Thursday, June 4th, 2026 - 12:26 PM (Europe/London)
-- **Job:** 11
-- **Topic:** Hoverboard Beeping: Common Reasons and Safe Fixes
-- **Target file:** clients/hoverboard_store/content_engine/drafts/hoverboard-beeping-common-reasons-safe-fixes.html
+- **Last run:** Sunday, June 7th, 2026 - 12:26 PM (Europe/London)
+- **Job:** 12
+- **Topic:** Best Hoverboards for Beginners UK: What to Look For
+- **Target file:** clients/hoverboard_store/content_engine/drafts/best-hoverboards-for-beginners-uk.html
 - **Result:** created
 - **Reason:** file created successfully
 - **Shopify API called:** No
-- **Next run:** Sunday, June 7th, 2026 - 12:26 PM (Europe/London)
-
----
+- **Next run:** Wednesday, June 10th, 2026 - 12:26 PM (Europe/London)
 ```
 
 ## Operating Rules
