@@ -199,7 +199,7 @@ Notes:
 Date target: 2026-06-24
 Cluster: Safety / Support
 Decision: create_new
-Status: planned
+Status: draft_created
 Topic: Hoverboard Helmet and Safety Gear Guide for Kids
 Target keyword: hoverboard helmet safety gear
 File: clients/hoverboard_store/content_engine/drafts/hoverboard-helmet-safety-gear-kids.html

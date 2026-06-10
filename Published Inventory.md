@@ -1,9 +1,11 @@
 # Hoverboard Store — Shopify Blog Content Inventory
 
-Generated: 2026-06-07T12:20:03.802702Z
+Generated: 2026-06-10T12:20:04.319737Z
 
 | Status | Blog | Title | Slug | Words | H1 | Updated |
 |---|---|---|---|---:|---|---|
+| published | Journal Insights | Hoverboard Gift Guide for Kids UK 2026 | hoverboard-gift-guide-for-kids-uk-2026 | 1252 | Hoverboard Gift Guide for Kids UK | 2026-06-09T16:39:20+01:00 |
+| published | Journal Insights | Hoverboard Accessories Checklist for New Riders UK 2026 | hoverboard-accessories-checklist-for-new-riders-uk-2026 | 1625 | Hoverboard Accessories Checklist for New Riders | 2026-06-09T16:39:05+01:00 |
 | published | Journal Insights | Hoverboard Storage Tips: Complete Guide for UK Riders 2026 | hoverboard-storage-tips-uk-2026 | 3621 | Hoverboard Storage Tips: Complete Guide for UK Riders 2026 | 2026-06-05T00:02:05+01:00 |
 | published | Journal Insights | Hoverkart Setup Guide for Beginners UK 2026 | hoverkart-setup-guide-for-beginners-uk-2026 | 1317 | Hoverkart Setup Guide for Beginners: Complete UK Guide 2026 | 2026-06-05T00:01:21+01:00 |
 | published | Journal Insights | Hoverkart vs Go Kart UK: Which is Right for You in 2026? | hoverkart-vs-go-kart-uk-2026 | 2245 | Hoverkart vs Go Kart UK: Which is Right for You in 2026? | 2026-06-05T00:01:10+01:00 |
