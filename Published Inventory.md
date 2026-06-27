@@ -1,11 +1,12 @@
 # Hoverboard Store — Shopify Blog Content Inventory
 
-Generated: 2026-06-10T12:20:04.319737Z
+Generated: 2026-06-27T10:20:03.664728Z
 
 | Status | Blog | Title | Slug | Words | H1 | Updated |
 |---|---|---|---|---:|---|---|
-| published | Journal Insights | Hoverboard Gift Guide for Kids UK 2026 | hoverboard-gift-guide-for-kids-uk-2026 | 1252 | Hoverboard Gift Guide for Kids UK | 2026-06-09T16:39:20+01:00 |
-| published | Journal Insights | Hoverboard Accessories Checklist for New Riders UK 2026 | hoverboard-accessories-checklist-for-new-riders-uk-2026 | 1625 | Hoverboard Accessories Checklist for New Riders | 2026-06-09T16:39:05+01:00 |
+| published | Journal Insights | How to Choose a Hoverkart for a Child UK | how-to-choose-a-hoverkart-for-a-child-uk-2026 | 1384 | How to Choose a Hoverkart for a Child | 2026-06-12T10:14:07+01:00 |
+| published | Journal Insights | Hoverboard Gift Guide for Kids UK 2026 | hoverboard-gift-guide-for-kids-uk-2026 | 1252 | Hoverboard Gift Guide for Kids UK | 2026-06-17T20:02:48+01:00 |
+| published | Journal Insights | Hoverboard Accessories Checklist for New Riders UK | hoverboard-accessories-checklist-for-new-riders-uk-2026 | 1625 | Hoverboard Accessories Checklist for New Riders | 2026-06-12T10:13:38+01:00 |
 | published | Journal Insights | Hoverboard Storage Tips: Complete Guide for UK Riders 2026 | hoverboard-storage-tips-uk-2026 | 3621 | Hoverboard Storage Tips: Complete Guide for UK Riders 2026 | 2026-06-05T00:02:05+01:00 |
 | published | Journal Insights | Hoverkart Setup Guide for Beginners UK 2026 | hoverkart-setup-guide-for-beginners-uk-2026 | 1317 | Hoverkart Setup Guide for Beginners: Complete UK Guide 2026 | 2026-06-05T00:01:21+01:00 |
 | published | Journal Insights | Hoverkart vs Go Kart UK: Which is Right for You in 2026? | hoverkart-vs-go-kart-uk-2026 | 2245 | Hoverkart vs Go Kart UK: Which is Right for You in 2026? | 2026-06-05T00:01:10+01:00 |
@@ -19,7 +20,7 @@ Generated: 2026-06-10T12:20:04.319737Z
 | published | Journal Insights | How to Ride a Hoverboard for the First Time: Complete Beginner's Guide UK | how-to-ride-hoverboard-first-time-uk | 2090 | How to Ride a Hoverboard for the First Time: Complete Beginner's Guide UK | 2026-03-11T10:12:56+00:00 |
 | published | Journal Insights | Ultimate Hoverboard Buying Guide UK 2026: Everything You Need to Know | ultimate-hoverboard-buying-guide-uk-2026-everything-you-need-to-know | 2024 | Ultimate Hoverboard Buying Guide UK 2026: Everything You Need to Know | 2026-03-02T20:19:17+00:00 |
 | published | Journal Insights | Hoverboard & Hoverkart Bundles: Complete Buying Guide 2026 | hoverboard-hoverkart-bundles-complete-buying-guide-2026 | 2155 | Hoverboard & Hoverkart Bundles: Complete Buying Guide 2026 | 2026-03-05T09:38:18+00:00 |
-| published | Journal Insights | Electric Scooter Guide UK 2026: Kids, Adults & Commuting | electric-scooter-guide-uk-2026-kids-adults-commuting | 1028 | Electric Scooter Guide UK 2026: Kids, Adults & Commuting | 2026-05-17T00:50:27+01:00 |
+| published | Journal Insights | Electric Scooter Guide UK 2026: Kids, Adults & Commuting | electric-scooter-guide-uk-2026-kids-adults-commuting | 1028 | Electric Scooter Guide UK 2026: Kids, Adults & Commuting | 2026-06-17T20:01:48+01:00 |
 | published | Journal Insights | Hoverboard Safety Guide: Tips, Laws & Best Practices UK 2026 | hoverboard-safety-guide-tips-laws-best-practices-uk-2026 | 1266 | Hoverboard Safety Guide: Tips, Laws & Best Practices UK 2026 | 2026-05-17T00:50:16+01:00 |
 | published | Journal Insights | Essential Hoverboard Accessories Guide: Protective Gear & Upgrades 2026 | essential-hoverboard-accessories-guide-protective-gear-upgrades-2026 | 1377 | Essential Hoverboard Accessories Guide: Protective Gear & Upgrades 2026 | 2026-03-02T20:18:16+00:00 |
 | published | Journal Insights | Hoverboard Battery Guide: Performance, Replacement & Maintenance 2026 | hoverboard-battery-guide-replacement-care-lifespan-2026 | 1369 | Hoverboard Battery Guide: Performance, Replacement & Maintenance 2026 | 2026-05-17T00:50:40+01:00 |

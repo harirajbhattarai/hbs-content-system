@@ -212,7 +212,7 @@ Notes:
 Date target: 2026-06-27
 Cluster: Hoverkart
 Decision: create_new
-Status: planned
+Status: draft_created
 Topic: Hoverkart vs Hoverboard: Which Is Better for Kids?
 Target keyword: hoverkart vs hoverboard
 File: clients/hoverboard_store/content_engine/drafts/hoverkart-vs-hoverboard-for-kids.html
@@ -225,7 +225,7 @@ Notes:
 Date target: 2026-06-30
 Cluster: Maintenance
 Decision: create_new
-Status: planned
+Status: draft_created
 Topic: How to Store a Hoverboard Battery Safely
 Target keyword: hoverboard battery storage
 File: clients/hoverboard_store/content_engine/drafts/how-to-store-hoverboard-battery-safely.html
@@ -238,7 +238,7 @@ Notes:
 Date target: 2026-07-03
 Cluster: Product / Collection Support
 Decision: create_new
-Status: planned
+Status: draft_created
 Topic: 6.5 Inch vs 8.5 Inch Hoverboards for Kids: Simple Buying Guide
 Target keyword: 6.5 inch vs 8.5 inch hoverboard kids
 File: clients/hoverboard_store/content_engine/drafts/65-vs-85-inch-hoverboards-kids-guide.html

@@ -133,3 +133,27 @@ Each entry represents one cron run of the Every-3-Day Blog Draft Creator.
 - **Reason:** file already exists
 - **Shopify API called:** No
 - **Reminder:** Run the terminal workflow manually to check and publish this draft to Shopify
+
+---
+## Cron Run — Thursday, June 25th, 2026 - 12:26 PM (Europe/London)
+
+- **Job:** 14
+- **Topic:** Hoverkart vs Hoverboard: Which Is Better for Kids?
+- **Target File:** clients/hoverboard_store/content_engine/drafts/hoverkart-vs-hoverboard-for-kids.html
+- **Result:** stopped
+- **Reason:** file already exists
+- **Shopify API called:** No
+- **Shopify Article ID:** none
+- **Reminder:** Check Shopify admin for draft article
+
+---
+## Cron Run — Saturday, June 27th, 2026 - 10:19 AM (Europe/London)
+
+- **Job:** 16
+- **Topic:** 6.5 Inch vs 8.5 Inch Hoverboards for Kids: Simple Buying Guide
+- **Target File:** clients/hoverboard_store/content_engine/drafts/65-vs-85-inch-hoverboards-kids-guide.html
+- **Result:** stopped
+- **Reason:** file already exists
+- **Shopify API called:** No
+- **Shopify Article ID:** none
+- **Reminder:** Check Shopify admin for draft article

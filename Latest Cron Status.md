@@ -1,11 +1,11 @@
 # Latest Cron Run Status
 
-- **Last run:** Sunday, June 21st, 2026 - 9:55 AM (Europe/London)
-- **Job:** 14
-- **Topic:** Hoverkart vs Hoverboard: Which Is Better for Kids?
-- **Target file:** clients/hoverboard_store/content_engine/drafts/hoverkart-vs-hoverboard-for-kids.html
+- **Last run:** Saturday, June 27th, 2026 - 10:19 AM (Europe/London)
+- **Job:** 16
+- **Topic:** 6.5 Inch vs 8.5 Inch Hoverboards for Kids: Simple Buying Guide
+- **Target file:** clients/hoverboard_store/content_engine/drafts/65-vs-85-inch-hoverboards-kids-guide.html
 - **Result:** stopped
 - **Reason:** file already exists
 - **Shopify API called:** No
-- **Shopify Article ID:** N/A
-- **Next run:** Wednesday, June 24th, 2026 (3 days from now)
+- **Shopify Article ID:** none
+- **Next run:** Tuesday, June 30th, 2026
