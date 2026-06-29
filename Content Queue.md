@@ -1,4 +1,4 @@
-# Hoverboard Store — Upcoming Content Queue v1
+# Hoverboard Store - Upcoming Content Queue v1
 
 Purpose:
 This queue controls upcoming blog creation for Hoverboard Store.
@@ -117,7 +117,7 @@ Topic: Beginner Hoverboards: What First-Time Buyers Should Check
 Target keyword: beginner hoverboard
 File: clients/hoverboard_store/content_engine/drafts/beginner-hoverboards-first-time-buyers.html
 Notes:
-- Do not duplicate “How to Ride a Hoverboard for the First Time”.
+- Do not duplicate "How to Ride a Hoverboard for the First Time".
 - Focus on buying checks, not riding tutorial.
 - Link to hoverboards collection.
 
@@ -233,6 +233,7 @@ Notes:
 - Battery care article.
 - Do not duplicate broad storage guide.
 - Mention cool dry storage, charging routine, and damage checks.
+- Shopify draft created: 2026-06-27. Article ID: 1006811971932. Handle: how-to-store-a-hoverboard-battery-safely-hoverboard-store.
 
 ## Job 16
 Date target: 2026-07-03
@@ -246,25 +247,29 @@ Notes:
 - Narrow buyer guide.
 - Do not duplicate Job 03 directly.
 - Compare beginner use, stability, surface suitability, and product fit.
+- Shopify draft created: 2026-06-27. Article ID: 1006814593372. Handle: 6-5-vs-8-5-inch-hoverboards-for-kids-simple-buying-guide-hoverboard-store.
 
 ## Job 17
 Date target: 2026-07-06
 Cluster: Troubleshooting
 Decision: create_new
-Status: planned
-Topic: Hoverboard Won’t Turn On: Safe Checks Before You Replace It
+Status: draft_created
+Topic: Hoverboard Won't Turn On: Safe Checks Before You Replace It
 Target keyword: hoverboard wont turn on
 File: clients/hoverboard_store/content_engine/drafts/hoverboard-wont-turn-on-safe-checks.html
 Notes:
 - Troubleshooting only.
 - Avoid repair guarantees.
 - Mention charger, port, battery warning signs, and professional support.
+- Shopify draft created: 2026-06-28 00:18 BST. Article ID: 1006818689372. Handle: hoverboard-won-t-turn-on-safe-checks-before-you-replace-it.
+- Override reason: compliance, HTML quality, and duplicate check all passed. REVIEW NEEDED flags in duplicate checker were pre-existing inventory risks, not specific to Job 17. Operator override approved.
+- Backup: content_queue_3_months.md.bak.20260628-001804.
 
 ## Job 18
 Date target: 2026-07-09
 Cluster: Buyer Guide
 Decision: create_new
-Status: planned
+Status: draft_created
 Topic: Hoverboard Weight Limit Guide for Parents
 Target keyword: hoverboard weight limit guide
 File: clients/hoverboard_store/content_engine/drafts/hoverboard-weight-limit-guide-parents.html
@@ -272,19 +277,27 @@ Notes:
 - Do not invent specific limits.
 - Tell users to check product page and manufacturer guidance.
 - Link to relevant collection/product pages.
+- Shopify draft created: 2026-06-28 02:08 BST. Article ID: 1006819246428. Handle: hoverboard-weight-limit-guide-for-parents.
+- Passed compliance, HTML quality, and duplicate checks (Job 18 not flagged; global REVIEW NEEDED pairs are pre-existing site-health issues).
+- Backup: content_queue_3_months.md.bak.20260628-020820.
 
 ## Job 19
 Date target: 2026-07-12
 Cluster: Seasonal / Gift Content
 Decision: create_new
-Status: planned
+Status: draft_created
 Topic: Christmas Hoverboard Gift Guide for Kids UK
 Target keyword: christmas hoverboard gift guide uk
-File: clients/hoverboard_store/content_engine/drafts/christmas-hoverboard-gift-guide-kids-uk.html
+File: clients/hoverboard_store/content_engine/drafts/christmas-hoverboard-gift-guide-for-kids.html
 Notes:
 - Seasonal commercial article.
 - Avoid public-road claims.
 - Include hoverboards, hoverkarts, scooters only if relevant.
+- Shopify draft updated: 2026-06-28 16:55 BST. Article ID: 1006822064476. Handle: christmas-hoverboard-gift-guide-for-kids-uk.
+- Local improvements applied: softened delivery wording, softened bundle wording, improved learning curve wording, improved hoverkart bundle FAQ wording.
+- Compliance and HTML quality checks passed. Duplicate REVIEW NEEDED warnings are unrelated global site-health issues, not Job 19.
+- Passed current-job checks.
+- Backup: content_queue_3_months.md.bak.
 
 ## Job 20
 Date target: 2026-07-15

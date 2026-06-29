@@ -1,6 +1,6 @@
 # Hoverboard Store — Shopify Blog Content Inventory
 
-Generated: 2026-06-27T10:20:03.664728Z
+Generated: 2026-06-28T15:56:34.012387Z
 
 | Status | Blog | Title | Slug | Words | H1 | Updated |
 |---|---|---|---|---:|---|---|

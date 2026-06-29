@@ -1,10 +1,13 @@
 # Hoverboard Store — Shopify Blog Content Inventory
 
-Generated: 2026-06-27T10:20:03.664922Z
+Generated: 2026-06-28T15:56:34.013099Z
 
 | Status | Blog | Title | Slug | Words | H1 | Updated |
 |---|---|---|---|---:|---|---|
-| draft | Journal Insights | 6.5 vs 8.5 Inch Hoverboards for Kids: Simple Buying Guide / Hoverboard Store | 6-5-vs-8-5-inch-hoverboards-for-kids-simple-buying-guide-hoverboard-store | 1444 | 6.5 Inch vs 8.5 Inch Hoverboards for Kids: Simple Buying Guide | 2026-06-27T11:20:02+01:00 |
+| draft | Journal Insights | Christmas Hoverboard Gift Guide for Kids UK | christmas-hoverboard-gift-guide-for-kids-uk | 1039 | Christmas Hoverboard Gift Guide for Kids UK | 2026-06-28T16:56:16+01:00 |
+| draft | Journal Insights | Hoverboard Weight Limit Guide for Parents | hoverboard-weight-limit-guide-for-parents | 1174 | Hoverboard Weight Limit Guide for Parents | 2026-06-28T02:08:26+01:00 |
+| draft | Journal Insights | Hoverboard Won't Turn On: Safe Checks Before You Replace It | hoverboard-won-t-turn-on-safe-checks-before-you-replace-it | 1362 | Hoverboard Won't Turn On: Safe Checks Before You Replace It | 2026-06-28T00:19:50+01:00 |
+| draft | Journal Insights | 6.5 vs 8.5 Inch Hoverboards for Kids: Simple Buying Guide / Hoverboard Store | 6-5-vs-8-5-inch-hoverboards-for-kids-simple-buying-guide-hoverboard-store | 1444 | 6.5 Inch vs 8.5 Inch Hoverboards for Kids: Simple Buying Guide | 2026-06-27T17:25:28+01:00 |
 | draft | Journal Insights | How to Store a Hoverboard Battery Safely / Hoverboard Store | how-to-store-a-hoverboard-battery-safely-hoverboard-store | 1375 | How to Store a Hoverboard Battery Safely | 2026-06-27T00:09:41+01:00 |
 | draft | Journal Insights | Hoverkart vs Hoverboard for Kids: Which Is Better UK 2026 | hoverkart-vs-hoverboard-for-kids-which-is-better-uk-2026 | 1320 | Hoverkart vs Hoverboard for Kids: Which Is Better in the UK? | 2026-06-21T09:57:24+01:00 |
 | draft | Journal Insights | Hoverboard Helmet and Safety Gear Guide for Kids | hoverboard-helmet-and-safety-gear-guide-for-kids | 1484 | Hoverboard Helmet and Safety Gear Guide for Kids | 2026-06-10T16:44:24+01:00 |
