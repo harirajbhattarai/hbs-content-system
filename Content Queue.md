@@ -303,7 +303,7 @@ Notes:
 Date target: 2026-07-15
 Cluster: Accessories / Support
 Decision: create_new
-Status: planned
+Status: draft_created
 Topic: Best Hoverboard Accessories for Safer Riding
 Target keyword: hoverboard accessories
 File: clients/hoverboard_store/content_engine/drafts/best-hoverboard-accessories-safer-riding.html
@@ -311,6 +311,12 @@ Notes:
 - Avoid duplicating Job 04.
 - Focus on safety gear, carry bags, hoverkarts, chargers only if suitable.
 - Do not invent stock.
+- Phase 2F: Shopify draft created 2026-06-30 (manual early approval — draft only, NOT published).
+- Shopify article ID: 1006845985116
+- Shopify handle: best-hoverboard-accessories-safer-riding-uk-2026
+- Shopify blog: Journal Insights (blog_id: 113430790492)
+- published: false | published_at: null
+- Queue updated after confirmed Shopify draft creation.
 
 ## Job 21
 Date target: 2026-07-18
