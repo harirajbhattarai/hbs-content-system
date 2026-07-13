@@ -319,10 +319,17 @@ Notes:
 - Queue updated after confirmed Shopify draft creation.
 
 ## Job 21
+Status: needs_human_review
+Last Updated: 2026-07-09T15:28:01+00:00
+Failure Reason: POST_FETCH_BODY_VERIFICATION_FAILED — exact-byte SHA256 mismatch (+12 bytes Shopify normalization). New narrow inter-tag LF rule (PASS_ALLOWED_INTER_TAG_LF_NORMALIZATION) would now pass but original sent body unavailable for independent replay. Content is equivalent; article is safe but requires human acknowledgment.
+Failure Code: POST_FETCH_BODY_VERIFICATION_FAILED
+Recovery Action: AWAITING_HUMAN_REVIEW
+Article ID: 1006975779164
+Failure Artifact: clients/hoverboard_store/content_engine/automation_state/job_21_shopify_draft_verification_failure.json
+Notes: Article 1006975779164 exists in Shopify (hidden draft). Content verified equivalent. Human review required before publishing.
 Date target: 2026-07-18
 Cluster: Hoverkart
 Decision: create_new
-Status: planned
 Topic: Hoverkart Compatibility Checklist Before You Buy
 Target keyword: hoverkart compatibility checklist
 File: clients/hoverboard_store/content_engine/drafts/hoverkart-compatibility-checklist-before-buy.html
@@ -332,10 +339,18 @@ Notes:
 - Avoid road-use claims.
 
 ## Job 22
+Status: needs_human_review
+Last Updated: 2026-07-09T19:14:06+00:00
+Failure Reason: UNAPPROVED_VERIFICATION_TIER_USED
+Recovery Action: AWAITING_HUMAN_REVIEW
+Reconciliation Note: Hidden Shopify draft exists. Approved raw and narrow inter-tag LF verification tiers did not pass. Historical live run introduced an unapproved entity/whitespace equivalence tier. Draft retained for human review; no second article should be created.
+Article ID: 1006992720220
+Handle: hoverboard-lights-flashing-what-it-means
+Draft Created At: 2026-07-09T17:13:25+00:00
+published_at: null
 Date target: 2026-07-21
 Cluster: Troubleshooting
 Decision: create_new
-Status: planned
 Topic: Hoverboard Lights Flashing: What It Usually Means
 Target keyword: hoverboard lights flashing
 File: clients/hoverboard_store/content_engine/drafts/hoverboard-lights-flashing-what-it-means.html
@@ -348,19 +363,26 @@ Notes:
 Date target: 2026-07-24
 Cluster: Buyer Guide
 Decision: create_new
-Status: planned
-Topic: Are Hoverboards Good Gifts for 8 to 12 Year Olds?
-Target keyword: hoverboard gift 8 year old 10 year old 12 year old
+Status: draft_created
+Shopify article ID: 1007001141596
+Shopify handle: are-hoverboards-good-gifts-for-8-to-12-year-olds
+published: false
+published_at: null
 File: clients/hoverboard_store/content_engine/drafts/are-hoverboards-good-gifts-8-12-year-olds.html
 Notes:
 - Do not invent minimum age rules.
 - Explain suitability depends on model, supervision, confidence, and manufacturer guidance.
 
 ## Job 24
+Status: draft_created
+Article ID: 1007005630812
+Handle: hoverboard-safety-checklist-before-every-ride
+Draft Created At: 2026-07-10T17:09:59+00:00
+published_at: null
+Last Updated: 2026-07-10T17:09:59+00:00
 Date target: 2026-07-27
 Cluster: Safety / Support
 Decision: create_new
-Status: planned
 Topic: Hoverboard Safety Checklist Before Every Ride
 Target keyword: hoverboard safety checklist
 File: clients/hoverboard_store/content_engine/drafts/hoverboard-safety-checklist-before-every-ride.html
@@ -370,10 +392,16 @@ Notes:
 - Include battery, tyres, lights, charger, supervision, protective gear.
 
 ## Job 25
+Status: draft_created
+Article ID: 1007011922268
+Handle: how-to-choose-a-hoverboard-for-a-beginner-child
+Draft Created At: 2026-07-11T08:16:37+00:00
+published_at: null
+Last Updated: 2026-07-11T08:16:37+00:00
+Transaction Evidence: /data/.openclaw/workspace/clients/hoverboard_store/content_engine/automation_state/runs/job25_1783757797_827e0701
 Date target: 2026-07-30
 Cluster: Product / Collection Support
 Decision: create_new
-Status: planned
 Topic: How to Choose a Hoverboard for a Beginner Child
 Target keyword: hoverboard for beginner child
 File: clients/hoverboard_store/content_engine/drafts/how-to-choose-hoverboard-beginner-child.html
@@ -383,10 +411,16 @@ Notes:
 - Focus on parent decision points.
 
 ## Job 26
+Status: draft_created
+Article ID: 1007012741468
+Handle: how-to-keep-a-hoverboard-clean-without-damaging-it
+Draft Created At: 2026-07-11T09:41:18+00:00
+published_at: null
+Last Updated: 2026-07-11T09:41:18+00:00
+Transaction Evidence: /data/.openclaw/workspace/clients/hoverboard_store/content_engine/automation_state/runs/job26_1783762878_f801216e
 Date target: 2026-08-02
 Cluster: Maintenance
 Decision: create_new
-Status: planned
 Topic: How to Keep a Hoverboard Clean Without Damaging It
 Target keyword: clean hoverboard without damaging
 File: clients/hoverboard_store/content_engine/drafts/clean-hoverboard-without-damaging.html
@@ -396,10 +430,16 @@ Notes:
 - Mention dry cloth, gentle cleaning, charger port care, and manufacturer guidance.
 
 ## Job 27
+Status: draft_created
+Article ID: 1007016771932
+Handle: hoverkart-safety-tips-for-first-time-riders
+Draft Created At: 2026-07-11T15:15:16+00:00
+published_at: null
+Last Updated: 2026-07-11T15:15:16+00:00
+Transaction Evidence: /data/.openclaw/workspace/clients/hoverboard_store/content_engine/automation_state/runs/job27_1783782916_ba6d8714
 Date target: 2026-08-05
 Cluster: Hoverkart
 Decision: create_new
-Status: planned
 Topic: Hoverkart Safety Tips for First-Time Riders
 Target keyword: hoverkart safety tips
 File: clients/hoverboard_store/content_engine/drafts/hoverkart-safety-tips-first-time-riders.html

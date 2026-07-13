@@ -1,6 +1,6 @@
 # Hoverboard Store Content System
 
-Last exported: 2026-07-06 12:00:04
+Last exported: 2026-07-13 12:00:04
 
 ## Quick Links
 
@@ -19,21 +19,16 @@ Last exported: 2026-07-06 12:00:04
 
 ## Queue Status Summary
 
-- **draft_created**: 18
-- **needs_human_review**: 1
-- **planned**: 10
+- **draft_created**: 23
+- **needs_human_review**: 3
+- **planned**: 3
 - **published_live**: 1
 
 ## Next Planned Jobs
 
-- **Job 21** — 2026-07-18 — Hoverkart — Hoverkart Compatibility Checklist Before You Buy
-- **Job 22** — 2026-07-21 — Troubleshooting — Hoverboard Lights Flashing: What It Usually Means
-- **Job 23** — 2026-07-24 — Buyer Guide — Are Hoverboards Good Gifts for 8 to 12 Year Olds?
-- **Job 24** — 2026-07-27 — Safety / Support — Hoverboard Safety Checklist Before Every Ride
-- **Job 25** — 2026-07-30 — Product / Collection Support — How to Choose a Hoverboard for a Beginner Child
-- **Job 26** — 2026-08-02 — Maintenance — How to Keep a Hoverboard Clean Without Damaging It
-- **Job 27** — 2026-08-05 — Hoverkart — Hoverkart Safety Tips for First-Time Riders
 - **Job 28** — 2026-08-08 — Troubleshooting — Hoverboard Charger Not Working: Checks Before Buying a New One
+- **Job 29** — 2026-08-11 — Seasonal / Gift Content — Birthday Hoverboard Gift Guide for Kids UK
+- **Job 30** — 2026-08-14 — Product / Collection Support — Hoverboard Bundle Buying Guide: Board, Kart and Safety Gear
 
 ## Latest Cron Snapshot
 
