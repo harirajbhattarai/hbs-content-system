@@ -8,221 +8,221 @@ Purpose: turn real Search Console query data into SEO actions.
 
 These may need stronger title tags, meta descriptions, snippets, FAQs, or better page intent match.
 
-- **kids electric scooter** | Impressions: 32411 | CTR: 1.05% | Position: 5.1 | Page: https://www.hoverboardstore.co.uk/collections/kids-electric-scooters
-- **electric scooter for kids** | Impressions: 20826 | CTR: 0.77% | Position: 5.2 | Page: https://www.hoverboardstore.co.uk/collections/kids-electric-scooters
-- **electric scooter kids** | Impressions: 8446 | CTR: 0.95% | Position: 5.8 | Page: https://www.hoverboardstore.co.uk/collections/kids-electric-scooters
-- **electric scooter for kids** | Impressions: 8327 | CTR: 0.04% | Position: 11.7 | Page: https://www.hoverboardstore.co.uk/products/kids-electric-scooter
-- **hoverboard** | Impressions: 4013 | CTR: 0.30% | Position: 12.9 | Page: https://www.hoverboardstore.co.uk/products/hoverboard-kart-bundle-65-ce-certified-kids-uk
-- **electric scooters for kids** | Impressions: 3725 | CTR: 0.81% | Position: 5.8 | Page: https://www.hoverboardstore.co.uk/collections/kids-electric-scooters
-- **kids electric scooter** | Impressions: 2809 | CTR: 0.00% | Position: 13.0 | Page: https://www.hoverboardstore.co.uk/products/kids-electric-scooter
-- **hoverboard with kart** | Impressions: 2498 | CTR: 0.72% | Position: 7.8 | Page: https://www.hoverboardstore.co.uk/products/hoverboard-kart-bundle-65-ce-certified-kids-uk
-- **evercross electric bike** | Impressions: 2298 | CTR: 0.09% | Position: 5.8 | Page: https://www.hoverboardstore.co.uk/products/evercross-ek30-electric-bike-for-adults
-- **kids electric scooters** | Impressions: 2254 | CTR: 0.31% | Position: 5.3 | Page: https://www.hoverboardstore.co.uk/collections/kids-electric-scooters
-- **kids e scooter** | Impressions: 2179 | CTR: 0.50% | Position: 6.7 | Page: https://www.hoverboardstore.co.uk/collections/kids-electric-scooters
-- **hoverboard go kart** | Impressions: 2071 | CTR: 0.29% | Position: 10.8 | Page: https://www.hoverboardstore.co.uk/products/hoverboard-kart-bundle-65-ce-certified-kids-uk
-- **electric scooter kids** | Impressions: 1818 | CTR: 0.00% | Position: 11.5 | Page: https://www.hoverboardstore.co.uk/products/kids-electric-scooter
-- **boys electric scooter** | Impressions: 1494 | CTR: 0.47% | Position: 4.9 | Page: https://www.hoverboardstore.co.uk/collections/kids-electric-scooters
-- **hoverboard battery** | Impressions: 1473 | CTR: 0.54% | Position: 8.6 | Page: https://www.hoverboardstore.co.uk/products/replacement-battery-for-hoverboards-36v-2-0ah-36v-battery-ul-2271
-- **e scooter kids** | Impressions: 1374 | CTR: 0.44% | Position: 7.4 | Page: https://www.hoverboardstore.co.uk/collections/kids-electric-scooters
-- **childs electric scooter** | Impressions: 1367 | CTR: 0.51% | Position: 4.7 | Page: https://www.hoverboardstore.co.uk/collections/kids-electric-scooters
-- **childrens electric scooter** | Impressions: 1291 | CTR: 0.23% | Position: 5.6 | Page: https://www.hoverboardstore.co.uk/collections/kids-electric-scooters
-- **hoverboard for kids** | Impressions: 1232 | CTR: 0.16% | Position: 12.7 | Page: https://www.hoverboardstore.co.uk/products/hoverboard-kart-bundle-65-ce-certified-kids-uk
-- **electric kids scooter** | Impressions: 1190 | CTR: 0.34% | Position: 7.7 | Page: https://www.hoverboardstore.co.uk/collections/kids-electric-scooters
-- **hoverboard uk** | Impressions: 1123 | CTR: 0.45% | Position: 11.6 | Page: https://www.hoverboardstore.co.uk/
-- **childrens electric mopeds** | Impressions: 1121 | CTR: 0.00% | Position: 5.3 | Page: https://www.hoverboardstore.co.uk/collections/kids-electric-scooters
-- **electric childrens scooters** | Impressions: 1099 | CTR: 0.00% | Position: 7.0 | Page: https://www.hoverboardstore.co.uk/collections/kids-electric-scooters
-- **hoverboard with seat** | Impressions: 1076 | CTR: 0.00% | Position: 8.5 | Page: https://www.hoverboardstore.co.uk/products/dual-seat-twin-hoverkart
-- **childrens electric scooters** | Impressions: 1023 | CTR: 0.10% | Position: 5.7 | Page: https://www.hoverboardstore.co.uk/collections/kids-electric-scooters
-- **e scooter for kids** | Impressions: 1018 | CTR: 0.79% | Position: 8.1 | Page: https://www.hoverboardstore.co.uk/collections/kids-electric-scooters
-- **hoverboards** | Impressions: 993 | CTR: 0.20% | Position: 14.6 | Page: https://www.hoverboardstore.co.uk/collections/all-products
-- **kids hoverboard** | Impressions: 886 | CTR: 0.11% | Position: 11.6 | Page: https://www.hoverboardstore.co.uk/products/hoverboard-kart-bundle-65-ce-certified-kids-uk
-- **hover board with seat** | Impressions: 879 | CTR: 0.00% | Position: 10.9 | Page: https://www.hoverboardstore.co.uk/products/dual-seat-twin-hoverkart
-- **hoverkart** | Impressions: 825 | CTR: 0.12% | Position: 10.6 | Page: https://www.hoverboardstore.co.uk/collections/hoverkarts
-- **hoverboard** | Impressions: 789 | CTR: 0.63% | Position: 13.9 | Page: https://www.hoverboardstore.co.uk/
-- **hoverboard and kart** | Impressions: 602 | CTR: 1.16% | Position: 7.3 | Page: https://www.hoverboardstore.co.uk/products/hoverboard-kart-bundle-65-ce-certified-kids-uk
-- **kids electric scooter uk** | Impressions: 597 | CTR: 1.51% | Position: 3.9 | Page: https://www.hoverboardstore.co.uk/collections/kids-electric-scooters
-- **hoverboard kart** | Impressions: 570 | CTR: 0.00% | Position: 12.3 | Page: https://www.hoverboardstore.co.uk/products/hoverboard-kart-bundle-65-ce-certified-kids-uk
-- **girls electric scooter** | Impressions: 570 | CTR: 0.18% | Position: 13.3 | Page: https://www.hoverboardstore.co.uk/collections/kids-electric-scooters
-- **hitway folding electric bike** | Impressions: 556 | CTR: 0.00% | Position: 7.8 | Page: https://www.hoverboardstore.co.uk/products/hitway-bk6s-folding-e-bike-electric-bike-20-fat-tire
-- **kids eletric scooter** | Impressions: 554 | CTR: 1.08% | Position: 4.9 | Page: https://www.hoverboardstore.co.uk/collections/kids-electric-scooters
-- **hoverboard go kart** | Impressions: 543 | CTR: 0.37% | Position: 11.7 | Page: https://www.hoverboardstore.co.uk/collections/hoverkarts
-- **electric motorcycle for kids** | Impressions: 536 | CTR: 0.00% | Position: 14.8 | Page: https://www.hoverboardstore.co.uk/collections/kids-electric-motorcycle
-- **electric scooters kids** | Impressions: 508 | CTR: 0.39% | Position: 5.4 | Page: https://www.hoverboardstore.co.uk/collections/kids-electric-scooters
-- **hoverkart** | Impressions: 483 | CTR: 0.41% | Position: 11.4 | Page: https://www.hoverboardstore.co.uk/products/dual-seat-twin-hoverkart
-- **junior electric scooter** | Impressions: 476 | CTR: 0.63% | Position: 5.3 | Page: https://www.hoverboardstore.co.uk/collections/kids-electric-scooters
-- **pink hoverboard** | Impressions: 461 | CTR: 0.22% | Position: 10.2 | Page: https://www.hoverboardstore.co.uk/products/hoverboard-kart-bundle-65-ce-certified-kids-uk
-- **hoverboard seat** | Impressions: 452 | CTR: 0.00% | Position: 17.4 | Page: https://www.hoverboardstore.co.uk/products/dual-seat-twin-hoverkart
-- **hoverboards hoverboard** | Impressions: 443 | CTR: 0.00% | Position: 11.6 | Page: https://www.hoverboardstore.co.uk/collections/all-products
-- **kids scooter electric** | Impressions: 425 | CTR: 0.71% | Position: 6.1 | Page: https://www.hoverboardstore.co.uk/collections/kids-electric-scooters
-- **electric hoverboards** | Impressions: 420 | CTR: 0.00% | Position: 9.9 | Page: https://www.hoverboardstore.co.uk/collections/all-products
-- **scooter for kids** | Impressions: 414 | CTR: 0.00% | Position: 15.4 | Page: https://www.hoverboardstore.co.uk/collections/kids-electric-scooters
+- **kids electric scooter** | Impressions: 33013 | CTR: 0.98% | Position: 5.3 | Page: https://www.hoverboardstore.co.uk/collections/kids-electric-scooters
+- **electric scooter for kids** | Impressions: 20666 | CTR: 0.74% | Position: 5.4 | Page: https://www.hoverboardstore.co.uk/collections/kids-electric-scooters
+- **electric scooter for kids** | Impressions: 8888 | CTR: 0.02% | Position: 11.9 | Page: https://www.hoverboardstore.co.uk/products/kids-electric-scooter
+- **electric scooter kids** | Impressions: 8555 | CTR: 0.89% | Position: 5.9 | Page: https://www.hoverboardstore.co.uk/collections/kids-electric-scooters
+- **hoverboard** | Impressions: 4214 | CTR: 0.28% | Position: 13.0 | Page: https://www.hoverboardstore.co.uk/products/hoverboard-kart-bundle-65-ce-certified-kids-uk
+- **electric scooters for kids** | Impressions: 3917 | CTR: 0.82% | Position: 5.9 | Page: https://www.hoverboardstore.co.uk/collections/kids-electric-scooters
+- **kids electric scooter** | Impressions: 3531 | CTR: 0.00% | Position: 13.2 | Page: https://www.hoverboardstore.co.uk/products/kids-electric-scooter
+- **hoverboard with kart** | Impressions: 2539 | CTR: 0.75% | Position: 7.8 | Page: https://www.hoverboardstore.co.uk/products/hoverboard-kart-bundle-65-ce-certified-kids-uk
+- **kids electric scooters** | Impressions: 2342 | CTR: 0.34% | Position: 5.6 | Page: https://www.hoverboardstore.co.uk/collections/kids-electric-scooters
+- **evercross electric bike** | Impressions: 2277 | CTR: 0.09% | Position: 6.1 | Page: https://www.hoverboardstore.co.uk/products/evercross-ek30-electric-bike-for-adults
+- **electric scooter kids** | Impressions: 2256 | CTR: 0.00% | Position: 11.6 | Page: https://www.hoverboardstore.co.uk/products/kids-electric-scooter
+- **hoverboard go kart** | Impressions: 2217 | CTR: 0.27% | Position: 10.9 | Page: https://www.hoverboardstore.co.uk/products/hoverboard-kart-bundle-65-ce-certified-kids-uk
+- **kids e scooter** | Impressions: 2206 | CTR: 0.50% | Position: 6.8 | Page: https://www.hoverboardstore.co.uk/collections/kids-electric-scooters
+- **hoverboard for kids** | Impressions: 1576 | CTR: 0.25% | Position: 12.6 | Page: https://www.hoverboardstore.co.uk/products/hoverboard-kart-bundle-65-ce-certified-kids-uk
+- **boys electric scooter** | Impressions: 1512 | CTR: 0.40% | Position: 5.0 | Page: https://www.hoverboardstore.co.uk/collections/kids-electric-scooters
+- **childs electric scooter** | Impressions: 1432 | CTR: 0.49% | Position: 4.9 | Page: https://www.hoverboardstore.co.uk/collections/kids-electric-scooters
+- **e scooter kids** | Impressions: 1430 | CTR: 0.49% | Position: 7.3 | Page: https://www.hoverboardstore.co.uk/collections/kids-electric-scooters
+- **hoverboard battery** | Impressions: 1426 | CTR: 0.56% | Position: 8.5 | Page: https://www.hoverboardstore.co.uk/products/replacement-battery-for-hoverboards-36v-2-0ah-36v-battery-ul-2271
+- **childrens electric scooter** | Impressions: 1329 | CTR: 0.23% | Position: 5.8 | Page: https://www.hoverboardstore.co.uk/collections/kids-electric-scooters
+- **electric kids scooter** | Impressions: 1213 | CTR: 0.33% | Position: 7.8 | Page: https://www.hoverboardstore.co.uk/collections/kids-electric-scooters
+- **hoverboard uk** | Impressions: 1183 | CTR: 0.42% | Position: 11.8 | Page: https://www.hoverboardstore.co.uk/
+- **childrens electric mopeds** | Impressions: 1149 | CTR: 0.00% | Position: 5.4 | Page: https://www.hoverboardstore.co.uk/collections/kids-electric-scooters
+- **electric childrens scooters** | Impressions: 1131 | CTR: 0.00% | Position: 7.4 | Page: https://www.hoverboardstore.co.uk/collections/kids-electric-scooters
+- **hoverboard with seat** | Impressions: 1105 | CTR: 0.00% | Position: 8.5 | Page: https://www.hoverboardstore.co.uk/products/dual-seat-twin-hoverkart
+- **childrens electric scooters** | Impressions: 1044 | CTR: 0.10% | Position: 5.8 | Page: https://www.hoverboardstore.co.uk/collections/kids-electric-scooters
+- **e scooter for kids** | Impressions: 1010 | CTR: 0.59% | Position: 8.3 | Page: https://www.hoverboardstore.co.uk/collections/kids-electric-scooters
+- **hoverboards** | Impressions: 977 | CTR: 0.20% | Position: 14.8 | Page: https://www.hoverboardstore.co.uk/collections/all-products
+- **kids hoverboard** | Impressions: 943 | CTR: 0.11% | Position: 11.6 | Page: https://www.hoverboardstore.co.uk/products/hoverboard-kart-bundle-65-ce-certified-kids-uk
+- **hoverkart** | Impressions: 804 | CTR: 0.12% | Position: 10.8 | Page: https://www.hoverboardstore.co.uk/collections/hoverkarts
+- **hover board with seat** | Impressions: 793 | CTR: 0.00% | Position: 10.8 | Page: https://www.hoverboardstore.co.uk/products/dual-seat-twin-hoverkart
+- **hoverboard** | Impressions: 755 | CTR: 0.79% | Position: 14.2 | Page: https://www.hoverboardstore.co.uk/
+- **hoverboard and kart** | Impressions: 615 | CTR: 0.81% | Position: 7.4 | Page: https://www.hoverboardstore.co.uk/products/hoverboard-kart-bundle-65-ce-certified-kids-uk
+- **hoverboard kart** | Impressions: 607 | CTR: 0.00% | Position: 12.2 | Page: https://www.hoverboardstore.co.uk/products/hoverboard-kart-bundle-65-ce-certified-kids-uk
+- **kids electric scooter uk** | Impressions: 598 | CTR: 1.67% | Position: 4.1 | Page: https://www.hoverboardstore.co.uk/collections/kids-electric-scooters
+- **hitway folding electric bike** | Impressions: 586 | CTR: 0.00% | Position: 7.7 | Page: https://www.hoverboardstore.co.uk/products/hitway-bk6s-folding-e-bike-electric-bike-20-fat-tire
+- **kids eletric scooter** | Impressions: 562 | CTR: 1.07% | Position: 5.0 | Page: https://www.hoverboardstore.co.uk/collections/kids-electric-scooters
+- **scooter for kids** | Impressions: 538 | CTR: 0.00% | Position: 14.6 | Page: https://www.hoverboardstore.co.uk/collections/kids-electric-scooters
+- **girls electric scooter** | Impressions: 512 | CTR: 0.00% | Position: 13.8 | Page: https://www.hoverboardstore.co.uk/collections/kids-electric-scooters
+- **electric scooters kids** | Impressions: 505 | CTR: 0.40% | Position: 5.4 | Page: https://www.hoverboardstore.co.uk/collections/kids-electric-scooters
+- **electric motorcycle for kids** | Impressions: 502 | CTR: 0.00% | Position: 15.2 | Page: https://www.hoverboardstore.co.uk/collections/kids-electric-motorcycle
+- **hoverkart** | Impressions: 499 | CTR: 0.40% | Position: 11.2 | Page: https://www.hoverboardstore.co.uk/products/dual-seat-twin-hoverkart
+- **junior electric scooter** | Impressions: 485 | CTR: 0.82% | Position: 5.4 | Page: https://www.hoverboardstore.co.uk/collections/kids-electric-scooters
+- **pink hoverboard** | Impressions: 483 | CTR: 0.21% | Position: 10.5 | Page: https://www.hoverboardstore.co.uk/products/hoverboard-kart-bundle-65-ce-certified-kids-uk
+- **hoverboard go kart** | Impressions: 461 | CTR: 0.22% | Position: 11.8 | Page: https://www.hoverboardstore.co.uk/collections/hoverkarts
+- **kids scooter electric** | Impressions: 446 | CTR: 0.67% | Position: 6.0 | Page: https://www.hoverboardstore.co.uk/collections/kids-electric-scooters
+- **hoverboards hoverboard** | Impressions: 444 | CTR: 0.00% | Position: 11.6 | Page: https://www.hoverboardstore.co.uk/collections/all-products
+- **electric hoverboards** | Impressions: 419 | CTR: 0.00% | Position: 9.9 | Page: https://www.hoverboardstore.co.uk/collections/all-products
 - **evercross ev10k pro** | Impressions: 413 | CTR: 0.00% | Position: 7.4 | Page: https://www.hoverboardstore.co.uk/products/evercross-ev10k-pro-electric-scooter-10-500w-35km-range
-- **hoverkart for kids** | Impressions: 411 | CTR: 1.22% | Position: 5.9 | Page: https://www.hoverboardstore.co.uk/collections/hoverkarts
+- **hoverboard with seat** | Impressions: 411 | CTR: 0.24% | Position: 9.8 | Page: https://www.hoverboardstore.co.uk/products/hoverboard-kart-bundle-65-ce-certified-kids-uk
+- **hoverkart for kids** | Impressions: 405 | CTR: 1.48% | Position: 5.9 | Page: https://www.hoverboardstore.co.uk/collections/hoverkarts
 
 ## 2. Striking Distance Keywords
 
 These are keywords already ranking near page 1 or page 2. Good targets for content upgrades/internal links.
 
-- **electric scooter for kids** | Impressions: 8327 | Clicks: 3 | Position: 11.7 | Page: https://www.hoverboardstore.co.uk/products/kids-electric-scooter
-- **hoverboard** | Impressions: 4013 | Clicks: 12 | Position: 12.9 | Page: https://www.hoverboardstore.co.uk/products/hoverboard-kart-bundle-65-ce-certified-kids-uk
-- **kids electric scooter** | Impressions: 2809 | Clicks: 0 | Position: 13.0 | Page: https://www.hoverboardstore.co.uk/products/kids-electric-scooter
-- **hoverboard go kart** | Impressions: 2071 | Clicks: 6 | Position: 10.8 | Page: https://www.hoverboardstore.co.uk/products/hoverboard-kart-bundle-65-ce-certified-kids-uk
-- **electric scooter kids** | Impressions: 1818 | Clicks: 0 | Position: 11.5 | Page: https://www.hoverboardstore.co.uk/products/kids-electric-scooter
-- **hoverboard battery** | Impressions: 1473 | Clicks: 8 | Position: 8.6 | Page: https://www.hoverboardstore.co.uk/products/replacement-battery-for-hoverboards-36v-2-0ah-36v-battery-ul-2271
-- **hoverboard for kids** | Impressions: 1232 | Clicks: 2 | Position: 12.7 | Page: https://www.hoverboardstore.co.uk/products/hoverboard-kart-bundle-65-ce-certified-kids-uk
-- **hoverboard uk** | Impressions: 1123 | Clicks: 5 | Position: 11.6 | Page: https://www.hoverboardstore.co.uk/
-- **hoverboard with seat** | Impressions: 1076 | Clicks: 0 | Position: 8.5 | Page: https://www.hoverboardstore.co.uk/products/dual-seat-twin-hoverkart
-- **e scooter for kids** | Impressions: 1018 | Clicks: 8 | Position: 8.1 | Page: https://www.hoverboardstore.co.uk/collections/kids-electric-scooters
-- **hoverboards** | Impressions: 993 | Clicks: 2 | Position: 14.6 | Page: https://www.hoverboardstore.co.uk/collections/all-products
-- **kids hoverboard** | Impressions: 886 | Clicks: 1 | Position: 11.6 | Page: https://www.hoverboardstore.co.uk/products/hoverboard-kart-bundle-65-ce-certified-kids-uk
-- **hover board with seat** | Impressions: 879 | Clicks: 0 | Position: 10.9 | Page: https://www.hoverboardstore.co.uk/products/dual-seat-twin-hoverkart
-- **hoverkart** | Impressions: 825 | Clicks: 1 | Position: 10.6 | Page: https://www.hoverboardstore.co.uk/collections/hoverkarts
-- **hoverboard** | Impressions: 789 | Clicks: 5 | Position: 13.9 | Page: https://www.hoverboardstore.co.uk/
-- **girls electric scooter** | Impressions: 570 | Clicks: 1 | Position: 13.3 | Page: https://www.hoverboardstore.co.uk/collections/kids-electric-scooters
-- **hoverboard kart** | Impressions: 570 | Clicks: 0 | Position: 12.3 | Page: https://www.hoverboardstore.co.uk/products/hoverboard-kart-bundle-65-ce-certified-kids-uk
-- **hoverboard go kart** | Impressions: 543 | Clicks: 2 | Position: 11.7 | Page: https://www.hoverboardstore.co.uk/collections/hoverkarts
-- **electric motorcycle for kids** | Impressions: 536 | Clicks: 0 | Position: 14.8 | Page: https://www.hoverboardstore.co.uk/collections/kids-electric-motorcycle
-- **hoverkart** | Impressions: 483 | Clicks: 2 | Position: 11.4 | Page: https://www.hoverboardstore.co.uk/products/dual-seat-twin-hoverkart
-- **pink hoverboard** | Impressions: 461 | Clicks: 1 | Position: 10.2 | Page: https://www.hoverboardstore.co.uk/products/hoverboard-kart-bundle-65-ce-certified-kids-uk
-- **hoverboard seat** | Impressions: 452 | Clicks: 0 | Position: 17.4 | Page: https://www.hoverboardstore.co.uk/products/dual-seat-twin-hoverkart
-- **hoverboards hoverboard** | Impressions: 443 | Clicks: 0 | Position: 11.6 | Page: https://www.hoverboardstore.co.uk/collections/all-products
-- **electric hoverboards** | Impressions: 420 | Clicks: 0 | Position: 9.9 | Page: https://www.hoverboardstore.co.uk/collections/all-products
-- **scooter for kids** | Impressions: 414 | Clicks: 0 | Position: 15.4 | Page: https://www.hoverboardstore.co.uk/collections/kids-electric-scooters
-- **hoverboard with seat** | Impressions: 405 | Clicks: 1 | Position: 9.8 | Page: https://www.hoverboardstore.co.uk/products/hoverboard-kart-bundle-65-ce-certified-kids-uk
-- **cheap hoverboard** | Impressions: 405 | Clicks: 0 | Position: 11.8 | Page: https://www.hoverboardstore.co.uk/
-- **hoverboard** | Impressions: 393 | Clicks: 0 | Position: 16.8 | Page: https://www.hoverboardstore.co.uk/collections/hoverkarts
-- **teenager scooter** | Impressions: 389 | Clicks: 0 | Position: 9.8 | Page: https://www.hoverboardstore.co.uk/products/midnight-red-x2-teenager-electric-scooter
-- **off road hoverboard** | Impressions: 385 | Clicks: 0 | Position: 10.8 | Page: https://www.hoverboardstore.co.uk/products/off-road-hoverboard-8-5
-- **hoverboard uk** | Impressions: 380 | Clicks: 0 | Position: 17.8 | Page: https://www.hoverboardstore.co.uk/products/g1-plus-hoverboard-chrome-blue
-- **2 wheel scooter** | Impressions: 375 | Clicks: 0 | Position: 18.4 | Page: https://www.hoverboardstore.co.uk/collections/kids-push-scooters
-- **hoverboard** | Impressions: 356 | Clicks: 1 | Position: 21.2 | Page: https://www.hoverboardstore.co.uk/collections/all-products
-- **electric motorbike childrens** | Impressions: 356 | Clicks: 0 | Position: 20.3 | Page: https://www.hoverboardstore.co.uk/collections/kids-electric-motorcycle
-- **kids ride on motorcycle** | Impressions: 350 | Clicks: 0 | Position: 8.3 | Page: https://www.hoverboardstore.co.uk/collections/kids-electric-motorcycle
+- **electric scooter for kids** | Impressions: 8888 | Clicks: 2 | Position: 11.9 | Page: https://www.hoverboardstore.co.uk/products/kids-electric-scooter
+- **hoverboard** | Impressions: 4214 | Clicks: 12 | Position: 13.0 | Page: https://www.hoverboardstore.co.uk/products/hoverboard-kart-bundle-65-ce-certified-kids-uk
+- **kids electric scooter** | Impressions: 3531 | Clicks: 0 | Position: 13.2 | Page: https://www.hoverboardstore.co.uk/products/kids-electric-scooter
+- **electric scooter kids** | Impressions: 2256 | Clicks: 0 | Position: 11.6 | Page: https://www.hoverboardstore.co.uk/products/kids-electric-scooter
+- **hoverboard go kart** | Impressions: 2217 | Clicks: 6 | Position: 10.9 | Page: https://www.hoverboardstore.co.uk/products/hoverboard-kart-bundle-65-ce-certified-kids-uk
+- **hoverboard for kids** | Impressions: 1576 | Clicks: 4 | Position: 12.6 | Page: https://www.hoverboardstore.co.uk/products/hoverboard-kart-bundle-65-ce-certified-kids-uk
+- **hoverboard battery** | Impressions: 1426 | Clicks: 8 | Position: 8.5 | Page: https://www.hoverboardstore.co.uk/products/replacement-battery-for-hoverboards-36v-2-0ah-36v-battery-ul-2271
+- **hoverboard uk** | Impressions: 1183 | Clicks: 5 | Position: 11.8 | Page: https://www.hoverboardstore.co.uk/
+- **hoverboard with seat** | Impressions: 1105 | Clicks: 0 | Position: 8.5 | Page: https://www.hoverboardstore.co.uk/products/dual-seat-twin-hoverkart
+- **e scooter for kids** | Impressions: 1010 | Clicks: 6 | Position: 8.3 | Page: https://www.hoverboardstore.co.uk/collections/kids-electric-scooters
+- **hoverboards** | Impressions: 977 | Clicks: 2 | Position: 14.8 | Page: https://www.hoverboardstore.co.uk/collections/all-products
+- **kids hoverboard** | Impressions: 943 | Clicks: 1 | Position: 11.6 | Page: https://www.hoverboardstore.co.uk/products/hoverboard-kart-bundle-65-ce-certified-kids-uk
+- **hoverkart** | Impressions: 804 | Clicks: 1 | Position: 10.8 | Page: https://www.hoverboardstore.co.uk/collections/hoverkarts
+- **hover board with seat** | Impressions: 793 | Clicks: 0 | Position: 10.8 | Page: https://www.hoverboardstore.co.uk/products/dual-seat-twin-hoverkart
+- **hoverboard** | Impressions: 755 | Clicks: 6 | Position: 14.2 | Page: https://www.hoverboardstore.co.uk/
+- **hoverboard kart** | Impressions: 607 | Clicks: 0 | Position: 12.2 | Page: https://www.hoverboardstore.co.uk/products/hoverboard-kart-bundle-65-ce-certified-kids-uk
+- **scooter for kids** | Impressions: 538 | Clicks: 0 | Position: 14.6 | Page: https://www.hoverboardstore.co.uk/collections/kids-electric-scooters
+- **girls electric scooter** | Impressions: 512 | Clicks: 0 | Position: 13.8 | Page: https://www.hoverboardstore.co.uk/collections/kids-electric-scooters
+- **electric motorcycle for kids** | Impressions: 502 | Clicks: 0 | Position: 15.2 | Page: https://www.hoverboardstore.co.uk/collections/kids-electric-motorcycle
+- **hoverkart** | Impressions: 499 | Clicks: 2 | Position: 11.2 | Page: https://www.hoverboardstore.co.uk/products/dual-seat-twin-hoverkart
+- **pink hoverboard** | Impressions: 483 | Clicks: 1 | Position: 10.5 | Page: https://www.hoverboardstore.co.uk/products/hoverboard-kart-bundle-65-ce-certified-kids-uk
+- **hoverboard go kart** | Impressions: 461 | Clicks: 1 | Position: 11.8 | Page: https://www.hoverboardstore.co.uk/collections/hoverkarts
+- **hoverboards hoverboard** | Impressions: 444 | Clicks: 0 | Position: 11.6 | Page: https://www.hoverboardstore.co.uk/collections/all-products
+- **electric hoverboards** | Impressions: 419 | Clicks: 0 | Position: 9.9 | Page: https://www.hoverboardstore.co.uk/collections/all-products
+- **hoverboard with seat** | Impressions: 411 | Clicks: 1 | Position: 9.8 | Page: https://www.hoverboardstore.co.uk/products/hoverboard-kart-bundle-65-ce-certified-kids-uk
+- **cheap hoverboard** | Impressions: 402 | Clicks: 0 | Position: 11.8 | Page: https://www.hoverboardstore.co.uk/
+- **hoverboard seat** | Impressions: 402 | Clicks: 0 | Position: 19.1 | Page: https://www.hoverboardstore.co.uk/products/dual-seat-twin-hoverkart
+- **2 wheel scooter** | Impressions: 401 | Clicks: 0 | Position: 19.2 | Page: https://www.hoverboardstore.co.uk/collections/kids-push-scooters
+- **off road hoverboard** | Impressions: 395 | Clicks: 0 | Position: 10.9 | Page: https://www.hoverboardstore.co.uk/products/off-road-hoverboard-8-5
+- **hoverboard** | Impressions: 374 | Clicks: 1 | Position: 24.6 | Page: https://www.hoverboardstore.co.uk/collections/all-products
+- **hoverboard uk** | Impressions: 372 | Clicks: 0 | Position: 17.9 | Page: https://www.hoverboardstore.co.uk/products/g1-plus-hoverboard-chrome-blue
+- **teenager scooter** | Impressions: 355 | Clicks: 0 | Position: 10.0 | Page: https://www.hoverboardstore.co.uk/products/midnight-red-x2-teenager-electric-scooter
+- **child electric scooter** | Impressions: 347 | Clicks: 0 | Position: 8.0 | Page: https://www.hoverboardstore.co.uk/collections/kids-electric-scooters
+- **hoverboard** | Impressions: 344 | Clicks: 0 | Position: 14.8 | Page: https://www.hoverboardstore.co.uk/collections/hoverkarts
+- **kids ride on motorcycle** | Impressions: 343 | Clicks: 0 | Position: 9.0 | Page: https://www.hoverboardstore.co.uk/collections/kids-electric-motorcycle
+- **electric motorbike childrens** | Impressions: 326 | Clicks: 0 | Position: 21.0 | Page: https://www.hoverboardstore.co.uk/collections/kids-electric-motorcycle
 - **scooter for students 2026** | Impressions: 319 | Clicks: 0 | Position: 8.7 | Page: https://www.hoverboardstore.co.uk/blogs/journal/electric-scooter-guide-uk-2026-kids-adults-commuting
 - **electric scooter for 8 year old** | Impressions: 318 | Clicks: 1 | Position: 8.2 | Page: https://www.hoverboardstore.co.uk/products/midnight-red-x2-teenager-electric-scooter
-- **all terrain hoverboard** | Impressions: 316 | Clicks: 5 | Position: 9.0 | Page: https://www.hoverboardstore.co.uk/products/all-terrain-hoverboard-kart-bundle-off-road-uk
-- **evercross electric scooter** | Impressions: 304 | Clicks: 1 | Position: 8.8 | Page: https://www.hoverboardstore.co.uk/products/evercross-ev10k-pro-electric-scooter-10-500w-35km-range
-- **hover boards** | Impressions: 284 | Clicks: 1 | Position: 14.4 | Page: https://www.hoverboardstore.co.uk/collections/all-products
-- **electric hoverboard** | Impressions: 280 | Clicks: 1 | Position: 12.7 | Page: https://www.hoverboardstore.co.uk/
-- **best kids electric scooter** | Impressions: 278 | Clicks: 1 | Position: 15.9 | Page: https://www.hoverboardstore.co.uk/collections/kids-electric-scooters
-- **hoverboard parts** | Impressions: 275 | Clicks: 9 | Position: 11.8 | Page: https://www.hoverboardstore.co.uk/collections/accessories
-- **kids electric scooter with seat** | Impressions: 271 | Clicks: 0 | Position: 14.1 | Page: https://www.hoverboardstore.co.uk/collections/kids-electric-scooters
-- **hover board for kids** | Impressions: 267 | Clicks: 0 | Position: 11.2 | Page: https://www.hoverboardstore.co.uk/products/hoverboard-kart-bundle-65-ce-certified-kids-uk
-- **scooters for kids** | Impressions: 256 | Clicks: 0 | Position: 18.0 | Page: https://www.hoverboardstore.co.uk/collections/kids-electric-scooters
-- **electric scooter for 7 year old** | Impressions: 253 | Clicks: 1 | Position: 16.0 | Page: https://www.hoverboardstore.co.uk/collections/kids-electric-scooters
-- **electric scooters for 12 year olds** | Impressions: 250 | Clicks: 0 | Position: 9.4 | Page: https://www.hoverboardstore.co.uk/collections/kids-electric-scooters
-- **electric foldable scooter** | Impressions: 249 | Clicks: 0 | Position: 23.9 | Page: https://www.hoverboardstore.co.uk/collections/kids-electric-scooters
-- **kids scooter electric** | Impressions: 248 | Clicks: 0 | Position: 10.2 | Page: https://www.hoverboardstore.co.uk/products/kids-electric-scooter
+- **all terrain hoverboard** | Impressions: 309 | Clicks: 4 | Position: 9.1 | Page: https://www.hoverboardstore.co.uk/products/all-terrain-hoverboard-kart-bundle-off-road-uk
+- **electric scooter for 7 year old** | Impressions: 299 | Clicks: 1 | Position: 15.1 | Page: https://www.hoverboardstore.co.uk/collections/kids-electric-scooters
+- **scooters for kids** | Impressions: 297 | Clicks: 0 | Position: 19.1 | Page: https://www.hoverboardstore.co.uk/collections/kids-electric-scooters
+- **hover boards** | Impressions: 282 | Clicks: 1 | Position: 14.4 | Page: https://www.hoverboardstore.co.uk/collections/all-products
+- **best kids electric scooter** | Impressions: 281 | Clicks: 1 | Position: 15.8 | Page: https://www.hoverboardstore.co.uk/collections/kids-electric-scooters
+- **kids hoverboard with seat** | Impressions: 278 | Clicks: 0 | Position: 10.2 | Page: https://www.hoverboardstore.co.uk/products/hoverboard-kart-bundle-65-ce-certified-kids-uk
+- **kids scooter electric** | Impressions: 274 | Clicks: 0 | Position: 10.3 | Page: https://www.hoverboardstore.co.uk/products/kids-electric-scooter
+- **kids electric scooter with seat** | Impressions: 266 | Clicks: 0 | Position: 14.1 | Page: https://www.hoverboardstore.co.uk/collections/kids-electric-scooters
+- **electric hoverboard** | Impressions: 260 | Clicks: 1 | Position: 12.7 | Page: https://www.hoverboardstore.co.uk/
+- **hoverboard parts** | Impressions: 259 | Clicks: 10 | Position: 11.4 | Page: https://www.hoverboardstore.co.uk/collections/accessories
+- **electric hoverboard** | Impressions: 251 | Clicks: 0 | Position: 11.8 | Page: https://www.hoverboardstore.co.uk/products/hoverboard-kart-bundle-65-ce-certified-kids-uk
+- **electric scooters for 12 year olds** | Impressions: 246 | Clicks: 1 | Position: 9.6 | Page: https://www.hoverboardstore.co.uk/collections/kids-electric-scooters
 
 ## 3. High Impressions With Zero Clicks
 
 These queries are visible but not winning clicks.
 
-- **kids electric scooter** | Impressions: 2809 | Position: 13.0 | Page: https://www.hoverboardstore.co.uk/products/kids-electric-scooter
-- **electric scooter kids** | Impressions: 1818 | Position: 11.5 | Page: https://www.hoverboardstore.co.uk/products/kids-electric-scooter
-- **childrens electric mopeds** | Impressions: 1121 | Position: 5.3 | Page: https://www.hoverboardstore.co.uk/collections/kids-electric-scooters
-- **electric childrens scooters** | Impressions: 1099 | Position: 7.0 | Page: https://www.hoverboardstore.co.uk/collections/kids-electric-scooters
-- **hoverboard with seat** | Impressions: 1076 | Position: 8.5 | Page: https://www.hoverboardstore.co.uk/products/dual-seat-twin-hoverkart
-- **hover board with seat** | Impressions: 879 | Position: 10.9 | Page: https://www.hoverboardstore.co.uk/products/dual-seat-twin-hoverkart
-- **hoverboard kart** | Impressions: 570 | Position: 12.3 | Page: https://www.hoverboardstore.co.uk/products/hoverboard-kart-bundle-65-ce-certified-kids-uk
-- **hitway folding electric bike** | Impressions: 556 | Position: 7.8 | Page: https://www.hoverboardstore.co.uk/products/hitway-bk6s-folding-e-bike-electric-bike-20-fat-tire
-- **electric motorcycle for kids** | Impressions: 536 | Position: 14.8 | Page: https://www.hoverboardstore.co.uk/collections/kids-electric-motorcycle
-- **hoverboard seat** | Impressions: 452 | Position: 17.4 | Page: https://www.hoverboardstore.co.uk/products/dual-seat-twin-hoverkart
-- **hoverboards hoverboard** | Impressions: 443 | Position: 11.6 | Page: https://www.hoverboardstore.co.uk/collections/all-products
-- **electric hoverboards** | Impressions: 420 | Position: 9.9 | Page: https://www.hoverboardstore.co.uk/collections/all-products
-- **scooter for kids** | Impressions: 414 | Position: 15.4 | Page: https://www.hoverboardstore.co.uk/collections/kids-electric-scooters
+- **kids electric scooter** | Impressions: 3531 | Position: 13.2 | Page: https://www.hoverboardstore.co.uk/products/kids-electric-scooter
+- **electric scooter kids** | Impressions: 2256 | Position: 11.6 | Page: https://www.hoverboardstore.co.uk/products/kids-electric-scooter
+- **childrens electric mopeds** | Impressions: 1149 | Position: 5.4 | Page: https://www.hoverboardstore.co.uk/collections/kids-electric-scooters
+- **electric childrens scooters** | Impressions: 1131 | Position: 7.4 | Page: https://www.hoverboardstore.co.uk/collections/kids-electric-scooters
+- **hoverboard with seat** | Impressions: 1105 | Position: 8.5 | Page: https://www.hoverboardstore.co.uk/products/dual-seat-twin-hoverkart
+- **hover board with seat** | Impressions: 793 | Position: 10.8 | Page: https://www.hoverboardstore.co.uk/products/dual-seat-twin-hoverkart
+- **hoverboard kart** | Impressions: 607 | Position: 12.2 | Page: https://www.hoverboardstore.co.uk/products/hoverboard-kart-bundle-65-ce-certified-kids-uk
+- **hitway folding electric bike** | Impressions: 586 | Position: 7.7 | Page: https://www.hoverboardstore.co.uk/products/hitway-bk6s-folding-e-bike-electric-bike-20-fat-tire
+- **scooter for kids** | Impressions: 538 | Position: 14.6 | Page: https://www.hoverboardstore.co.uk/collections/kids-electric-scooters
+- **girls electric scooter** | Impressions: 512 | Position: 13.8 | Page: https://www.hoverboardstore.co.uk/collections/kids-electric-scooters
+- **electric motorcycle for kids** | Impressions: 502 | Position: 15.2 | Page: https://www.hoverboardstore.co.uk/collections/kids-electric-motorcycle
+- **hoverboards hoverboard** | Impressions: 444 | Position: 11.6 | Page: https://www.hoverboardstore.co.uk/collections/all-products
+- **electric hoverboards** | Impressions: 419 | Position: 9.9 | Page: https://www.hoverboardstore.co.uk/collections/all-products
 - **evercross ev10k pro** | Impressions: 413 | Position: 7.4 | Page: https://www.hoverboardstore.co.uk/products/evercross-ev10k-pro-electric-scooter-10-500w-35km-range
-- **cheap hoverboard** | Impressions: 405 | Position: 11.8 | Page: https://www.hoverboardstore.co.uk/
-- **hoverboard** | Impressions: 393 | Position: 16.8 | Page: https://www.hoverboardstore.co.uk/collections/hoverkarts
-- **teenager scooter** | Impressions: 389 | Position: 9.8 | Page: https://www.hoverboardstore.co.uk/products/midnight-red-x2-teenager-electric-scooter
-- **off road hoverboard** | Impressions: 385 | Position: 10.8 | Page: https://www.hoverboardstore.co.uk/products/off-road-hoverboard-8-5
-- **hoverboard uk** | Impressions: 380 | Position: 17.8 | Page: https://www.hoverboardstore.co.uk/products/g1-plus-hoverboard-chrome-blue
-- **2 wheel scooter** | Impressions: 375 | Position: 18.4 | Page: https://www.hoverboardstore.co.uk/collections/kids-push-scooters
-- **electric motorbike childrens** | Impressions: 356 | Position: 20.3 | Page: https://www.hoverboardstore.co.uk/collections/kids-electric-motorcycle
-- **kids electric scooters for sale** | Impressions: 353 | Position: 6.8 | Page: https://www.hoverboardstore.co.uk/collections/kids-electric-scooters
-- **kids ride on motorcycle** | Impressions: 350 | Position: 8.3 | Page: https://www.hoverboardstore.co.uk/collections/kids-electric-motorcycle
-- **child electric scooter** | Impressions: 344 | Position: 7.9 | Page: https://www.hoverboardstore.co.uk/collections/kids-electric-scooters
+- **cheap hoverboard** | Impressions: 402 | Position: 11.8 | Page: https://www.hoverboardstore.co.uk/
+- **hoverboard seat** | Impressions: 402 | Position: 19.1 | Page: https://www.hoverboardstore.co.uk/products/dual-seat-twin-hoverkart
+- **2 wheel scooter** | Impressions: 401 | Position: 19.2 | Page: https://www.hoverboardstore.co.uk/collections/kids-push-scooters
+- **off road hoverboard** | Impressions: 395 | Position: 10.9 | Page: https://www.hoverboardstore.co.uk/products/off-road-hoverboard-8-5
+- **hoverboard uk** | Impressions: 372 | Position: 17.9 | Page: https://www.hoverboardstore.co.uk/products/g1-plus-hoverboard-chrome-blue
+- **kids scooters** | Impressions: 363 | Position: 34.7 | Page: https://www.hoverboardstore.co.uk/collections/kids-electric-scooters
+- **kids electric scooters for sale** | Impressions: 356 | Position: 7.2 | Page: https://www.hoverboardstore.co.uk/collections/kids-electric-scooters
+- **teenager scooter** | Impressions: 355 | Position: 10.0 | Page: https://www.hoverboardstore.co.uk/products/midnight-red-x2-teenager-electric-scooter
+- **child electric scooter** | Impressions: 347 | Position: 8.0 | Page: https://www.hoverboardstore.co.uk/collections/kids-electric-scooters
+- **hoverboard** | Impressions: 344 | Position: 14.8 | Page: https://www.hoverboardstore.co.uk/collections/hoverkarts
+- **kids ride on motorcycle** | Impressions: 343 | Position: 9.0 | Page: https://www.hoverboardstore.co.uk/collections/kids-electric-motorcycle
+- **kids scooter** | Impressions: 328 | Position: 39.7 | Page: https://www.hoverboardstore.co.uk/collections/kids-electric-scooters
+- **electric motorbike childrens** | Impressions: 326 | Position: 21.0 | Page: https://www.hoverboardstore.co.uk/collections/kids-electric-motorcycle
 - **scooter for students 2026** | Impressions: 319 | Position: 8.7 | Page: https://www.hoverboardstore.co.uk/blogs/journal/electric-scooter-guide-uk-2026-kids-adults-commuting
 - **hoverboard battery** | Impressions: 317 | Position: 7.6 | Page: https://www.hoverboardstore.co.uk/products/hoverboard-battery
-- **kids scooters** | Impressions: 298 | Position: 34.4 | Page: https://www.hoverboardstore.co.uk/collections/kids-electric-scooters
-- **kids scooter** | Impressions: 283 | Position: 39.6 | Page: https://www.hoverboardstore.co.uk/collections/kids-electric-scooters
-- **pink scooter** | Impressions: 280 | Position: 41.1 | Page: https://www.hoverboardstore.co.uk/products/3-wheel-kids-push-foldable-scooter-with-bluetooth-music-flashing-lights-sprayer-galaxy-pink
-- **kids electric scooter with seat** | Impressions: 271 | Position: 14.1 | Page: https://www.hoverboardstore.co.uk/collections/kids-electric-scooters
-- **hover board for kids** | Impressions: 267 | Position: 11.2 | Page: https://www.hoverboardstore.co.uk/products/hoverboard-kart-bundle-65-ce-certified-kids-uk
-- **electric scooty for kids** | Impressions: 265 | Position: 6.3 | Page: https://www.hoverboardstore.co.uk/collections/kids-electric-scooters
-- **kiddies electric scooter** | Impressions: 260 | Position: 4.3 | Page: https://www.hoverboardstore.co.uk/collections/kids-electric-scooters
-- **scooters for kids** | Impressions: 256 | Position: 18.0 | Page: https://www.hoverboardstore.co.uk/collections/kids-electric-scooters
-- **electric scooters for 12 year olds** | Impressions: 250 | Position: 9.4 | Page: https://www.hoverboardstore.co.uk/collections/kids-electric-scooters
-- **electric foldable scooter** | Impressions: 249 | Position: 23.9 | Page: https://www.hoverboardstore.co.uk/collections/kids-electric-scooters
-- **kids scooter electric** | Impressions: 248 | Position: 10.2 | Page: https://www.hoverboardstore.co.uk/products/kids-electric-scooter
-- **kids hoverboard with seat** | Impressions: 245 | Position: 10.5 | Page: https://www.hoverboardstore.co.uk/products/hoverboard-kart-bundle-65-ce-certified-kids-uk
-- **ride on motorcycle** | Impressions: 238 | Position: 6.3 | Page: https://www.hoverboardstore.co.uk/collections/kids-electric-motorcycle
-- **ride on motorbike** | Impressions: 236 | Position: 39.5 | Page: https://www.hoverboardstore.co.uk/collections/kids-electric-motorcycle
-- **hover board with seat** | Impressions: 224 | Position: 11.2 | Page: https://www.hoverboardstore.co.uk/products/hoverboard-kart-bundle-65-ce-certified-kids-uk
-- **hover board seat** | Impressions: 221 | Position: 4.3 | Page: https://www.hoverboardstore.co.uk/products/dual-seat-twin-hoverkart
-- **electric scooters for 8 year olds** | Impressions: 218 | Position: 12.3 | Page: https://www.hoverboardstore.co.uk/collections/kids-electric-scooters
-- **hoverboards hoverboard** | Impressions: 212 | Position: 10.5 | Page: https://www.hoverboardstore.co.uk/collections/hoverboards-1
-- **electric scooter £150** | Impressions: 207 | Position: 4.4 | Page: https://www.hoverboardstore.co.uk/products/kids-electric-scooter
-- **kids electric motorbike** | Impressions: 204 | Position: 34.4 | Page: https://www.hoverboardstore.co.uk/collections/kids-electric-motorcycle
-- **hoverboards uk** | Impressions: 203 | Position: 10.2 | Page: https://www.hoverboardstore.co.uk/
-- **boys scooter** | Impressions: 196 | Position: 38.5 | Page: https://www.hoverboardstore.co.uk/collections/kids-electric-scooters
-- **segway with seat** | Impressions: 195 | Position: 5.9 | Page: https://www.hoverboardstore.co.uk/products/dual-seat-twin-hoverkart
-- **rival hoverboard** | Impressions: 192 | Position: 29.8 | Page: https://www.hoverboardstore.co.uk/
+- **scooters for kids** | Impressions: 297 | Position: 19.1 | Page: https://www.hoverboardstore.co.uk/collections/kids-electric-scooters
+- **electric scooty for kids** | Impressions: 292 | Position: 6.4 | Page: https://www.hoverboardstore.co.uk/collections/kids-electric-scooters
+- **kids hoverboard with seat** | Impressions: 278 | Position: 10.2 | Page: https://www.hoverboardstore.co.uk/products/hoverboard-kart-bundle-65-ce-certified-kids-uk
+- **kids scooter electric** | Impressions: 274 | Position: 10.3 | Page: https://www.hoverboardstore.co.uk/products/kids-electric-scooter
+- **pink scooter** | Impressions: 268 | Position: 41.0 | Page: https://www.hoverboardstore.co.uk/products/3-wheel-kids-push-foldable-scooter-with-bluetooth-music-flashing-lights-sprayer-galaxy-pink
+- **kids electric scooter with seat** | Impressions: 266 | Position: 14.1 | Page: https://www.hoverboardstore.co.uk/collections/kids-electric-scooters
+- **kiddies electric scooter** | Impressions: 262 | Position: 4.4 | Page: https://www.hoverboardstore.co.uk/collections/kids-electric-scooters
+- **electric hoverboard** | Impressions: 251 | Position: 11.8 | Page: https://www.hoverboardstore.co.uk/products/hoverboard-kart-bundle-65-ce-certified-kids-uk
+- **electric foldable scooter** | Impressions: 241 | Position: 24.0 | Page: https://www.hoverboardstore.co.uk/collections/kids-electric-scooters
+- **ride on motorcycle** | Impressions: 239 | Position: 6.6 | Page: https://www.hoverboardstore.co.uk/collections/kids-electric-motorcycle
+- **ride on motorbike** | Impressions: 234 | Position: 39.3 | Page: https://www.hoverboardstore.co.uk/collections/kids-electric-motorcycle
+- **hover board with seat** | Impressions: 226 | Position: 11.1 | Page: https://www.hoverboardstore.co.uk/products/hoverboard-kart-bundle-65-ce-certified-kids-uk
+- **hover board for kids** | Impressions: 219 | Position: 11.4 | Page: https://www.hoverboardstore.co.uk/products/hoverboard-kart-bundle-65-ce-certified-kids-uk
+- **boys scooter** | Impressions: 218 | Position: 38.6 | Page: https://www.hoverboardstore.co.uk/collections/kids-electric-scooters
+- **best electric scooter for kids** | Impressions: 214 | Position: 22.1 | Page: https://www.hoverboardstore.co.uk/collections/kids-electric-scooters
+- **electric scooters for 8 year olds** | Impressions: 208 | Position: 13.0 | Page: https://www.hoverboardstore.co.uk/collections/kids-electric-scooters
+- **hover board seat** | Impressions: 203 | Position: 4.7 | Page: https://www.hoverboardstore.co.uk/products/dual-seat-twin-hoverkart
+- **hoverboards uk** | Impressions: 201 | Position: 10.5 | Page: https://www.hoverboardstore.co.uk/
+- **childrens scooters** | Impressions: 200 | Position: 42.3 | Page: https://www.hoverboardstore.co.uk/collections/kids-electric-scooters
+- **gg electric scooter** | Impressions: 198 | Position: 6.1 | Page: https://www.hoverboardstore.co.uk/products/kids-electric-scooter
+- **kids electric motorbike** | Impressions: 198 | Position: 35.0 | Page: https://www.hoverboardstore.co.uk/collections/kids-electric-motorcycle
 
 ## 4. Pages With Search Demand
 
 Use these pages for refreshes, internal links, FAQs, and supporting blog clusters.
 
-- https://www.hoverboardstore.co.uk/collections/kids-electric-scooters | Impressions: 104660 | Clicks: 775 | Example queries: kids scooters, kods electric scooter, electric scooter for kids with seat, hover-1 kids electric scooters, electric scooter age 6, kids electric scooter girls
-- https://www.hoverboardstore.co.uk/products/hoverboard-kart-bundle-65-ce-certified-kids-uk | Impressions: 18299 | Clicks: 67 | Example queries: hoverboard gokart, hoberboard, hoverboard blue, hoverboard with go kart attachment, hoverboard bundle, samsung hoverboard
-- https://www.hoverboardstore.co.uk/products/kids-electric-scooter | Impressions: 15620 | Clicks: 11 | Example queries: gg scooter, hover-1 kids electric scooters, electric scooter age 6, electric scooter for kids, novi x1 electric scooter, x1 scooter
-- https://www.hoverboardstore.co.uk/ | Impressions: 8402 | Clicks: 101 | Example queries: ride on hover, electric hoverboards for sale currys, hoverboard hire, hoverboard uk cheap, hover board uk, hoverboards near me
-- https://www.hoverboardstore.co.uk/products/dual-seat-twin-hoverkart | Impressions: 4365 | Clicks: 3 | Example queries: hoverboard 2, hoverboard with seat for adults, segway with seat, hoverboards with seats, hover board with seat attachment, hoverboard for kids with seat
-- https://www.hoverboardstore.co.uk/collections/kids-electric-motorcycle | Impressions: 4263 | Clicks: 3 | Example queries: electric ride on motorbike, electric motorbike childrens, ride on motorcycle, electric dirt bike for kids, kids motor, motorcycle for kids
-- https://www.hoverboardstore.co.uk/collections/hoverkarts | Impressions: 3584 | Clicks: 17 | Example queries: hoverboard sit down, kids hoverkart, hover cart, hoverkart for kids, hoverkart with hoverboard, hoverboard seat with steering wheel
-- https://www.hoverboardstore.co.uk/collections/all-products | Impressions: 3157 | Clicks: 5 | Example queries: hoverboards hoverboard, hoverboard scooter, hoverboard store, adult hoverboard, how much are hoverboards, rival 1 hoverboard
-- https://www.hoverboardstore.co.uk/products/replacement-battery-for-hoverboards-36v-2-0ah-36v-battery-ul-2271 | Impressions: 2979 | Clicks: 32 | Example queries: hy a02 hoverboard battery, battery for a hoverboard, lt1865-nl02 battery, hoverboard battery 36v, battery for hoverboard, hover board battery replacement
-- https://www.hoverboardstore.co.uk/products/evercross-ek30-electric-bike-for-adults | Impressions: 2740 | Clicks: 2 | Example queries: evercross e bike, evercross ebike, evercross bike, evercross electric bike, evercross ek30 pro, ever cross bike
-- https://www.hoverboardstore.co.uk/products/midnight-red-x2-teenager-electric-scooter | Impressions: 1893 | Clicks: 16 | Example queries: electric scooter teenager, electric scooter red, teenager scooter, red kids scooter, x2 electric scooter, kids electric scooter 8 year old
-- https://www.hoverboardstore.co.uk/products/evercross-ev10k-pro-electric-scooter-10-500w-35km-range | Impressions: 1731 | Clicks: 2 | Example queries: evercross pro, evercross pro electric scooter, evercross e scooter, evercross electric scooter, evercross uk, evercross ev 10k pro
-- https://www.hoverboardstore.co.uk/products/all-terrain-hoverboard-kart-bundle-off-road-uk | Impressions: 1486 | Clicks: 18 | Example queries: hoverboard all terrain, outdoor hoverboard, off road hoverboard, hoverboard bundle, hoverboard off road, all terrain hoverboard
-- https://www.hoverboardstore.co.uk/products/off-road-hoverboard-8-5 | Impressions: 1463 | Clicks: 13 | Example queries: all terrain hoverboards uk, best off road hoverboard uk, hoverboard 8.5, off road hover board, off-road hoverboard, hoverboard offroad
-- https://www.hoverboardstore.co.uk/collections/kids-push-scooters | Impressions: 1296 | Clicks: 0 | Example queries: kids 3 wheel scooter, kids scooter 3 wheel, childrens 2 wheel scooter, 3 wheel scooter, 2 wheel scooter, electric scooters 3 wheel
-- https://www.hoverboardstore.co.uk/products/hoverkart-replacement-straps | Impressions: 1062 | Clicks: 7 | Example queries: hoverboard straps for go kart, hoverboard straps, hoverkart straps, hoverboard go kart straps, hoverboard velcro straps, hoverboard seat straps
-- https://www.hoverboardstore.co.uk/products/hoverboard-battery | Impressions: 1057 | Clicks: 18 | Example queries: jetech battery, jetech 36v battery, jetech hoverboard battery 36v, hover board battery, hoverboard battery replacement uk, hoverboard battery replacement 36v
-- https://www.hoverboardstore.co.uk/products/off-road-hoverboard-blue-rcb | Impressions: 865 | Clicks: 25 | Example queries: hoverboard, hoverboard rcb, rcb hoverboard, blue hoverboard, rcb hoverboards, rcb hoverboard rh3
-- https://www.hoverboardstore.co.uk/collections/accessories | Impressions: 864 | Clicks: 22 | Example queries: hoverboard replacement parts, hoverboard zubehör, hoverboard parts for sale, hoverboard accesorios, hoverboard accessories, hover board accessories
-- https://www.hoverboardstore.co.uk/products/koolux-x1-folding-electric-bike-36v-60-km-range | Impressions: 754 | Clicks: 5 | Example queries: koolux folding electric bike, koolux x1 battery, koolux x1, x1 e bike, koolux electric bike, koolux x1 folding electric bike
-- https://www.hoverboardstore.co.uk/products/g1-lite-streamline-pink-hoverboard-with-bluetooth | Impressions: 702 | Clicks: 0 | Example queries: pink hoverboard, hover board pink, pink hoverboard with bluetooth, hover 1 pink, hoverboard pink, hover 1 rival pink
-- https://www.hoverboardstore.co.uk/products/hitway-bk6s-folding-e-bike-electric-bike-20-fat-tire | Impressions: 677 | Clicks: 0 | Example queries: hitway fat tire electric bike, hitway folding ebike, hitway folding electric bike, hitway electric folding bike
-- https://www.hoverboardstore.co.uk/blogs/journal/electric-scooter-guide-uk-2026-kids-adults-commuting | Impressions: 663 | Clicks: 0 | Example queries: scooter for students 2026, scooter for beginners 2026, scooter for families 2026, scooter for home office 2026
-- https://www.hoverboardstore.co.uk/products/evercross-ev12m-kids-ride-on-motorcycle-red | Impressions: 658 | Clicks: 1 | Example queries: red electric motorbike, evercross ev12m () reviews, evercross electric bike, evercross electric motorbike, evercross ev12m pro, evercross ev12m pro kids electric () reviews
-- https://www.hoverboardstore.co.uk/products/g1-plus-hoverboard-chrome-blue | Impressions: 637 | Clicks: 0 | Example queries: hoverboard, hoverboard uk, hoverboard blue, uk hoverboard, hoverboards uk, blue chrome hoverboard
-- https://www.hoverboardstore.co.uk/products/revix-pulse-s300-electric-scooter | Impressions: 560 | Clicks: 10 | Example queries: pulse scooter, revix plus, pulse scooters, pulse e scooter, revix, revix electric scooter
-- https://www.hoverboardstore.co.uk/products/hoverkart-replacement-wheel | Impressions: 511 | Clicks: 14 | Example queries: hoverboard wheels, hoverboard go kart wheel, hoverboard wheel, hover board wheels, hoverboard kart replacement wheel, hoverboard replacement wheels
-- https://www.hoverboardstore.co.uk/collections/hoverboards-1 | Impressions: 502 | Clicks: 2 | Example queries: hoverboards hoverboard, hoverboard store, hoverboard uk, hoverboards, hoverboard for kids, hoverboard for adults
-- https://www.hoverboardstore.co.uk/products/evercross-ev06-q-kids-electric-scooter-blue | Impressions: 494 | Clicks: 1 | Example queries: evercross e6 electric scooter, evercross kids electric scooter, electric scooter girls, evercross e6 electric scooter for kids, girls electric scooter, ever cross
-- https://www.hoverboardstore.co.uk/pages/user-manual | Impressions: 483 | Clicks: 10 | Example queries: hoverboard manual, manual hoverboard, hoverboard instructions, hoverboard manual pdf, hoverboard user manual, hoverboard user manual pdf
-- https://www.hoverboardstore.co.uk/products/h7-grey-electric-scooter-25-km-h-350w-motor | Impressions: 448 | Clicks: 1 | Example queries: gray electric scooter, grey electric scooter, grey e scooter, grey scooter, qmwheel h7 electric scooter, h7 electric scooter
-- https://www.hoverboardstore.co.uk/products/3-wheel-kids-push-foldable-scooter-with-bluetooth-music-flashing-lights-sprayer-galaxy-pink | Impressions: 410 | Clicks: 0 | Example queries: pink scooter, pink electric scooter, light up scooter, scooter pink
-- https://www.hoverboardstore.co.uk/collections/electric-scooters | Impressions: 372 | Clicks: 1 | Example queries: electric hoverboard, hoverboard store, hoverboard uk, hoverboard electric scooter, hoverboard e scooter, scooter store scooter
-- https://www.hoverboardstore.co.uk/pages/contact | Impressions: 332 | Clicks: 12 | Example queries: h30.store customer service phone number, hoverboard, hoverboard store
-- https://www.hoverboardstore.co.uk/collections/e-bikes | Impressions: 313 | Clicks: 1 | Example queries: hoverboard bike, e-hoverboard, electric hoverboard, electric bike
-- https://www.hoverboardstore.co.uk/collections/hoverboard-hoverkart-bundles | Impressions: 286 | Clicks: 1 | Example queries: hoverboard uk, hoverboard store, hover board, hoverkart, hoverkart bundles
-- https://www.hoverboardstore.co.uk/products/g1-lite-streamline-black-hoverboard-with-bluetooth | Impressions: 270 | Clicks: 0 | Example queries: black hoverboard, hoverboard cheap, cheap hoverboards, cheap hoverboard
-- https://www.hoverboardstore.co.uk/blogs/journal/hoverboard-battery-guide-replacement-care-lifespan-2026 | Impressions: 250 | Clicks: 1 | Example queries: hoverboard battery life, hoverboard battery replacement, how long does a hoverboard battery last, hoverboard battery, hoverboard batteries
-- https://www.hoverboardstore.co.uk/products/evercross-ev12m-kids-ride-on-motorcycle-blue | Impressions: 226 | Clicks: 1 | Example queries: kids electric bike, evercross ev12m, ev12m, evercross ev12m kids ride on motorcycle
-- https://www.hoverboardstore.co.uk/products/koolux-bk6s-pro-folding-electric-bike-dual-battery-150km-range | Impressions: 216 | Clicks: 2 | Example queries: bk6s pro, koolux bk6s, koolux bk6s pro, bk6s pro folding electric bike
-- https://www.hoverboardstore.co.uk/products/electric-scooter-revix-storm-400 | Impressions: 209 | Clicks: 1 | Example queries: electric scooter 500w, rosavive electric scooter, revix electric scooter, e scooter 35km
-- https://www.hoverboardstore.co.uk/collections/sale | Impressions: 156 | Clicks: 0 | Example queries: hoverboard sale, hoverboards for sale, hoverboard store
-- https://www.hoverboardstore.co.uk/pages/about-the-company | Impressions: 151 | Clicks: 19 | Example queries: h chahal and sons ltd
-- http://hoverboardstore.co.uk/ | Impressions: 150 | Clicks: 4 | Example queries: hover board, hoverboard store, hoverboard
-- https://www.hoverboardstore.co.uk/products/g1-lite-hoverboard-motherboard | Impressions: 129 | Clicks: 1 | Example queries: hoverboard motherboard
-- https://www.hoverboardstore.co.uk/products/hoverkart-r1 | Impressions: 121 | Clicks: 1 | Example queries: hoverkart, hoverkart uk, hoverboard go kart attachment with steering wheel, hoverboard go kart with steering wheel
-- https://www.hoverboardstore.co.uk/products/3-wheel-kids-push-foldable-scooter-with-bluetooth-music-flashing-lights-sprayer-galaxy-blue | Impressions: 103 | Clicks: 0 | Example queries: blue scooter
-- https://www.hoverboardstore.co.uk/blogs/journal/hoverboard-troubleshooting-uk-complete-problem-solver-2026 | Impressions: 101 | Clicks: 1 | Example queries: hoverboard problems and solutions, hoverboard troubleshooting, what are some effective maintenance tips for my hoverboard?
-- https://www.hoverboardstore.co.uk/products/rcb-r9x-electric-kids-motorcycle | Impressions: 98 | Clicks: 0 | Example queries: rcb r9x, rcb r9x pro
-- https://www.hoverboardstore.co.uk/collections/all | Impressions: 97 | Clicks: 0 | Example queries: rival 1 hoverboard, hoverboard store, hoverboard
+- https://www.hoverboardstore.co.uk/collections/kids-electric-scooters | Impressions: 106613 | Clicks: 754 | Example queries: kids escooters, electric scooter kids 8 year old, kids battery scooter, kids electric moped, self balancing scooter kids, kids electroc scooter
+- https://www.hoverboardstore.co.uk/products/hoverboard-kart-bundle-65-ce-certified-kids-uk | Impressions: 19434 | Clicks: 68 | Example queries: pink galaxy segway, hoverboard go kart attachment, hoverboard galaxy, hoverboard go kart kit, hoverkart, go kart attachment for hoverboard
+- https://www.hoverboardstore.co.uk/products/kids-electric-scooter | Impressions: 17472 | Clicks: 9 | Example queries: electric scooter £150, hover 1 kids scooters, kids battery scooter, e scooter 150, kids electric scooter, gg scooter
+- https://www.hoverboardstore.co.uk/ | Impressions: 8294 | Clicks: 102 | Example queries: currys hoverboard, hoverboard in store, rival 1 hoverboard, best hoverboards deals, hoover board, currys hoverboards
+- https://www.hoverboardstore.co.uk/products/dual-seat-twin-hoverkart | Impressions: 4211 | Clicks: 3 | Example queries: hoverboards with seats, hoverboard attachment, segway with seat, hoverkarts, hoverboard for kids with seat, hoverboard with a seat
+- https://www.hoverboardstore.co.uk/collections/kids-electric-motorcycle | Impressions: 4121 | Clicks: 3 | Example queries: ride on motorcycle for kids, kids ride on motorcycle, kids motor, childrens electric dirt bike, childrens motorbike, kids battery bike
+- https://www.hoverboardstore.co.uk/collections/hoverkarts | Impressions: 3267 | Clicks: 17 | Example queries: hover cart, hoverkarts, hoverboard cart, hoverboard, hoverkart for adults, hoverboard go kart
+- https://www.hoverboardstore.co.uk/collections/all-products | Impressions: 3187 | Clicks: 5 | Example queries: electric hoverboards, hoverboards hoverboard, hoverboards, rival 1 hoverboard, hover 1 rival hoverboard, hover board
+- https://www.hoverboardstore.co.uk/products/replacement-battery-for-hoverboards-36v-2-0ah-36v-battery-ul-2271 | Impressions: 2937 | Clicks: 31 | Example queries: kr20 10s1p battery, hy a02 hoverboard battery, hover board battery replacement, uni-sun hoverboard battery, hoverboard 36v battery, battery for a hoverboard
+- https://www.hoverboardstore.co.uk/products/evercross-ek30-electric-bike-for-adults | Impressions: 2716 | Clicks: 2 | Example queries: ever cross bike, ek30 pro, evercross e bike, evercross electric bike, evercross ebike, evercross ek30 pro
+- https://www.hoverboardstore.co.uk/products/midnight-red-x2-teenager-electric-scooter | Impressions: 1794 | Clicks: 13 | Example queries: electric scooter red, electric scooter kids 8 year old, x2 electric scooter, age 8 scooter, e scooter for 8 year old, kids red scooter
+- https://www.hoverboardstore.co.uk/products/evercross-ev10k-pro-electric-scooter-10-500w-35km-range | Impressions: 1621 | Clicks: 2 | Example queries: evercross pro electric scooter, evercross electric scooter, evercross ev10k, evercross scooter, evercross uk, ev10k pro electric scooter
+- https://www.hoverboardstore.co.uk/products/all-terrain-hoverboard-kart-bundle-off-road-uk | Impressions: 1505 | Clicks: 17 | Example queries: off road hoverboard for kids, hoverboard and kart bundle, hoverboard off road, off road hoverboard go kart, hoverboard store, hoverboard and kart bundle uk
+- https://www.hoverboardstore.co.uk/products/off-road-hoverboard-8-5 | Impressions: 1495 | Clicks: 12 | Example queries: hoverboard off road, hoverboard offroad, hoverboard store, rcb hoverboard, hoverboard 8.5 inch, hoverboard
+- https://www.hoverboardstore.co.uk/collections/kids-push-scooters | Impressions: 1368 | Clicks: 0 | Example queries: two wheeled scooter, childrens 2 wheel scooter, 3 wheel scooter, light up scooter, wheel scooter, scooter for 3 year old
+- https://www.hoverboardstore.co.uk/products/hoverboard-battery | Impressions: 1070 | Clicks: 17 | Example queries: jetech battery 36v, hoverboard battery replacement 36v, jt esb10 08 battery replacement, jetech 36v battery, hoverboard battery replacement, hoverboard battery replacement uk
+- https://www.hoverboardstore.co.uk/products/hoverkart-replacement-straps | Impressions: 1014 | Clicks: 7 | Example queries: straps for hoverboard kart, segway straps, hoverboard go kart straps, hovertrax kart straps, hover board straps, hoverboard straps
+- https://www.hoverboardstore.co.uk/collections/accessories | Impressions: 857 | Clicks: 22 | Example queries: hoverboard ersatzteile, hoverboard accessories, hoverboard parts for sale, hoverboard go kart spare parts, hoverboard spare parts, hoverboard parts
+- https://www.hoverboardstore.co.uk/products/off-road-hoverboard-blue-rcb | Impressions: 794 | Clicks: 24 | Example queries: hoverboard rcb 8.5, rcb rh3 hoverboard, rcb hoverboards, rcb hoverboard review, hoverboard rcb, rcb hoverboard 8.5
+- https://www.hoverboardstore.co.uk/products/koolux-x1-folding-electric-bike-36v-60-km-range | Impressions: 753 | Clicks: 5 | Example queries: koolux folding electric bike, koolux x1, koolux x1 folding electric bike, x1 e bike, koolux electric bike, x1 bike
+- https://www.hoverboardstore.co.uk/products/hitway-bk6s-folding-e-bike-electric-bike-20-fat-tire | Impressions: 711 | Clicks: 0 | Example queries: hitway folding electric bike, hitway fat tire electric bike, hitway electric folding bike, hitway folding ebike
+- https://www.hoverboardstore.co.uk/blogs/journal/electric-scooter-guide-uk-2026-kids-adults-commuting | Impressions: 667 | Clicks: 0 | Example queries: scooter for students 2026, scooter for beginners 2026, scooter for home office 2026, scooter for families 2026
+- https://www.hoverboardstore.co.uk/products/g1-lite-streamline-pink-hoverboard-with-bluetooth | Impressions: 612 | Clicks: 0 | Example queries: hover board pink, pink hoverboard for kids, hover 1 pink, hover 1 rival pink, pink hoverboard with bluetooth, hoverboard pink
+- https://www.hoverboardstore.co.uk/products/g1-plus-hoverboard-chrome-blue | Impressions: 608 | Clicks: 0 | Example queries: blue chrome hoverboard, uk hoverboard, hoverboard blue, hoverboards uk, hoverboard uk, hoverboard fast
+- https://www.hoverboardstore.co.uk/products/revix-pulse-s300-electric-scooter | Impressions: 559 | Clicks: 9 | Example queries: rosavive electric scooter, revix scooter, revix, pulse e scooter, revix plus, pulse scooter
+- https://www.hoverboardstore.co.uk/products/hoverkart-replacement-wheel | Impressions: 511 | Clicks: 14 | Example queries: hover board wheels, hoverboard replacement wheels, hoverboard go kart wheel, hoverboard wheel, hoverboard seat front wheel replacement, hoverboard kart replacement wheel
+- https://www.hoverboardstore.co.uk/products/evercross-ev12m-kids-ride-on-motorcycle-red | Impressions: 494 | Clicks: 1 | Example queries: evercross electric motorbike, ever cross bike, evercross ev7, evercross ev12m review, evercross electric bike, evercross ev12m
+- https://www.hoverboardstore.co.uk/pages/user-manual | Impressions: 489 | Clicks: 14 | Example queries: hoverboard manual pdf, hoverboard instructions, manual hoverboard, hoverboard manual, hoverboard user manual, hoverboard user manual pdf
+- https://www.hoverboardstore.co.uk/products/evercross-ev06-q-kids-electric-scooter-blue | Impressions: 470 | Clicks: 1 | Example queries: evercross e6 electric scooter, evercross kids electric scooter, girls electric scooter, evercross ev06, electric scooter girls, evq kids scooter
+- https://www.hoverboardstore.co.uk/collections/hoverboards-1 | Impressions: 462 | Clicks: 2 | Example queries: electric hoverboards, hoverboards hoverboard, hoverboards, buy hoverboards, hoverboard store, hoverboard uk
+- https://www.hoverboardstore.co.uk/products/h7-grey-electric-scooter-25-km-h-350w-motor | Impressions: 411 | Clicks: 1 | Example queries: grey scooter, grey electric scooter, h7 pro electric scooter, qmwheel, qmwheel h7 electric scooter, grey e scooter
+- https://www.hoverboardstore.co.uk/products/3-wheel-kids-push-foldable-scooter-with-bluetooth-music-flashing-lights-sprayer-galaxy-pink | Impressions: 393 | Clicks: 0 | Example queries: scooter pink, pink electric scooter, light up scooter, pink scooter
+- https://www.hoverboardstore.co.uk/pages/contact | Impressions: 364 | Clicks: 13 | Example queries: hoverboard store, hoverboard, h30.store customer service phone number
+- https://www.hoverboardstore.co.uk/collections/hoverboard-hoverkart-bundles | Impressions: 317 | Clicks: 1 | Example queries: hover board, hoverboard store, hoverboard uk, hoverkart, hoverkart bundles
+- https://www.hoverboardstore.co.uk/blogs/journal/hoverboard-battery-guide-replacement-care-lifespan-2026 | Impressions: 302 | Clicks: 1 | Example queries: hoverboard batteries, hoverboard battery replacement, hoverboard battery life, how long does a hoverboard battery last, hoverboard battery
+- https://www.hoverboardstore.co.uk/collections/e-bikes | Impressions: 294 | Clicks: 1 | Example queries: electric hoverboard, e-hoverboard, hoverboard bike, electric bike
+- https://www.hoverboardstore.co.uk/collections/electric-scooters | Impressions: 286 | Clicks: 1 | Example queries: hoverboard electric scooter, hoverboard store, hoverboard e scooter, hoverboard uk, electric hoverboard, scooter store scooter
+- https://www.hoverboardstore.co.uk/products/g1-lite-streamline-black-hoverboard-with-bluetooth | Impressions: 284 | Clicks: 0 | Example queries: black hoverboard, cheap hoverboard, hoverboard cheap, hoverboard black, cheap hoverboards
+- https://www.hoverboardstore.co.uk/products/electric-scooter-revix-storm-400 | Impressions: 185 | Clicks: 1 | Example queries: rosavive electric scooter, revix electric scooter, electric scooter 500w
+- https://www.hoverboardstore.co.uk/products/koolux-bk6s-pro-folding-electric-bike-dual-battery-150km-range | Impressions: 183 | Clicks: 2 | Example queries: bk6s pro folding electric bike, bk6s pro, koolux bk6s pro, koolux bk6s
+- https://www.hoverboardstore.co.uk/collections/sale | Impressions: 167 | Clicks: 0 | Example queries: hoverboard store, hoverboards for sale, hoverboard sale
+- https://www.hoverboardstore.co.uk/collections/all | Impressions: 166 | Clicks: 0 | Example queries: hoverboard store, rival 1 hoverboard, hoverboard
+- http://hoverboardstore.co.uk/ | Impressions: 158 | Clicks: 4 | Example queries: hoverboard store, hoverboard, hover board
+- https://www.hoverboardstore.co.uk/products/evercross-ev12m-kids-ride-on-motorcycle-blue | Impressions: 154 | Clicks: 1 | Example queries: evercross ev12m kids ride on motorcycle, ev12m, evercross ev12m, kids electric bike
+- https://www.hoverboardstore.co.uk/pages/about-the-company | Impressions: 143 | Clicks: 19 | Example queries: h chahal and sons ltd
+- https://www.hoverboardstore.co.uk/products/g1-lite-hoverboard-motherboard | Impressions: 136 | Clicks: 1 | Example queries: hoverboard motherboard
+- https://www.hoverboardstore.co.uk/products/rcb-r9x-electric-kids-motorcycle | Impressions: 127 | Clicks: 0 | Example queries: rcb r9x, rcb r9x pro, rcb r9x electric dirt bike
+- https://www.hoverboardstore.co.uk/products/3-wheel-kids-push-foldable-scooter-with-bluetooth-music-flashing-lights-sprayer-galaxy-blue | Impressions: 115 | Clicks: 0 | Example queries: blue scooter
+- https://www.hoverboardstore.co.uk/blogs/journal/hoverboard-troubleshooting-uk-complete-problem-solver-2026 | Impressions: 104 | Clicks: 1 | Example queries: what are some effective maintenance tips for my hoverboard?, hoverboard problems and solutions, hoverboard troubleshooting
+- https://www.hoverboardstore.co.uk/products/hoverkart-r1 | Impressions: 96 | Clicks: 0 | Example queries: hoverkart, hoverboard go kart attachment with steering wheel, hoverkart uk
 
 ## Recommended Next Actions
 
